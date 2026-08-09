@@ -1,0 +1,3 @@
+[submodule "RESCO"]
+	path = RESCO
+	url = https://github.com/Pi-Star-Lab/RESCO.git
