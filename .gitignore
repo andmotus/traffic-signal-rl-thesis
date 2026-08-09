@@ -3,7 +3,6 @@ venv/
 *.pyc
 __pycache__/
 
-docs/
 *.docx
 *.pptx
 
