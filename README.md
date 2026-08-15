@@ -1,6 +1,6 @@
 # Vehicle-Type-Aware RL for Traffic Signal Control
 
-MSc thesis project — Lukas Müller, Sustainability, Innovation and Technology.
+MSc thesis project — Lukas Müller | Sustainability, Innovation and Technology
 
 Extends the [RESCO](https://github.com/Pi-Star-Lab/RESCO) benchmark (Cologne & Ingolstadt
 networks) with vehicle-classification-aware state representation, and estimates the
