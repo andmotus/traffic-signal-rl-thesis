@@ -1,0 +1,2 @@
+python run_typed_training.py "@ingolstadt1_typed" "@IDQN" libsumo:False save_console_log:False gui:False episodes:200
+python run_classification_training.py "@ingolstadt1_typed" "@IDQN" state:drq_typed libsumo:False save_console_log:False gui:False episodes:200

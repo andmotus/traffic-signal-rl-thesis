@@ -1,5 +1,4 @@
 .idea
-results*
 *-*.flo.xml
 *-*.rou.xml
 nohup.out

@@ -1,0 +1,2 @@
+python run_classification_training.py "@cologne1_typed" "@IDQN" state:drq_typed libsumo:False save_console_log:False gui:False
+python run_classification_training.py "@ingolstadt1_typed" "@IDQN" state:drq_typed libsumo:False save_console_log:False gui:False

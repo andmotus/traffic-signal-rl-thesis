@@ -1,0 +1,264 @@
+6190ad0a5e37767deb444f3974e3612a28a1dd9bf83b7df04cc5d4d16f3da08c: ingolstadt1typed+fixed_libsumo@False_gui@False_6f3da08c
+@ingolstadt1_typed @FIXED libsumo:False save_console_log:False gui:False
+{
+    "colors_map": {
+        "Max Pressure": "C3",
+        "IDQN": "C0",
+        "Fixed Time": "C1",
+        "MPLight": "C2",
+        "Advanced-MPLight": "C4",
+        "Parameter Reset": "C5"
+    },
+    "names_map": {
+        "timeLoss": "Average Delay",
+        "duration": "Average Travel Time",
+        "waitingTime": "Average Waiting Time",
+        "rewards": "Reward",
+        "max_queues": "Max Queue Length",
+        "queue_lengths": "Average Queue Length",
+        "vehicles": "Demand",
+        "phase_length": "Phase Length",
+        "yaxis_timeLoss": "Delay (s)",
+        "yaxis_duration": "Travel Time (s)",
+        "yaxis_waitingTime": "Waiting Time (s)",
+        "yaxis_rewards": "Reward total",
+        "yaxis_max_queues": "Queue length",
+        "yaxis_queue_lengths": "Queue length",
+        "yaxis_vehicles": "Vehicles (vpm)",
+        "cologne1": "Cologne Single",
+        "cologne3": "Cologne Corridor",
+        "cologne8": "Cologne Region",
+        "ingolstadt1": "Ingolstadt Single",
+        "ingolstadt7": "Ingolstadt Corridor",
+        "ingolstadt21": "Ingolstadt Region",
+        "saltlake2_stateXuniversity": "Univ & State - 2023 Q1",
+        "saltlake2_stateXuniversity#signals@['A3']": "Univ & State - 2023 Q1 - West Signal",
+        "saltlake2_stateXuniversity#signals@['B3']": "Univ & State - 2023 Q1 - East Signal",
+        "saltlake2_400sX200w": "400S & 200W - 2023 Q1",
+        "saltlake2_400sX200w#signals@['A3']": "400S & 200W - 2023 Q1 - West Signal",
+        "saltlake2_400sX200w#signals@['B3']": "400S & 200W - 2023 Q1 - East Signal",
+        "FIXED": "Fixed time",
+        "MAXWAVE": "Max wave",
+        "MAXPRESSURE": "Max pressure",
+        "RLCD": "RL-CD",
+        "AdvancedMPLight": "Advanced-MPLight",
+        "IMultiDQN": "DARTS",
+        "init_time": "H",
+        "sample_time": "W",
+        "model_buffer_size": "n",
+        "deviations": "\u03c3",
+        "fixed_buffer": "Fixed",
+        "parameter_reset_freq": "Reset",
+        "buffer_size": "Buffer",
+        "action_set": "Actions",
+        "fasttrac": "Fast TRAC",
+        "crelu": "CReLU",
+        "global_buffers": "Global",
+        "blank_params": {
+            "IMultiDQN": [
+                "criteria",
+                "expert"
+            ],
+            "ISAC": [
+                "cl_method"
+            ]
+        },
+        "relevant_params": {
+            "IDQN": [
+                "fasttrac",
+                "crelu",
+                "parameter_reset_freq",
+                "buffer_size"
+            ],
+            "RLCD": [
+                "action_set"
+            ],
+            "ISAC": [
+                "cl_method"
+            ],
+            "IMultiDQN": [
+                "criteria",
+                [
+                    "criteria",
+                    "!std&!kstest&!oracle_vehicles",
+                    [
+                        "fallback"
+                    ]
+                ],
+                [
+                    "criteria",
+                    "std",
+                    [
+                        "global_buffers",
+                        "expert",
+                        "init_time",
+                        "sample_time",
+                        "deviations",
+                        "model_buffer_size",
+                        "fixed_buffer"
+                    ]
+                ],
+                [
+                    "criteria",
+                    "kstest",
+                    [
+                        "expert",
+                        "init_time",
+                        "sample_time",
+                        "p_value",
+                        "model_buffer_size",
+                        "fixed_buffer"
+                    ]
+                ]
+            ]
+        },
+        "text_values": {
+            "std": "Std Dev",
+            "kstest": "K-S Test"
+        }
+    },
+    "controlled_signals": null,
+    "uncontrolled_policy": "MAXPRESSURE",
+    "action_set": "Phase",
+    "episodes": 100,
+    "converged": null,
+    "log_dir": "C:\\dev\\Activation_Lab\\RESCO\\results",
+    "gui": false,
+    "libsumo": false,
+    "load_sim": null,
+    "save_model": false,
+    "save_frequency": 20,
+    "load_model": null,
+    "load_replay": true,
+    "training": true,
+    "testing": 0,
+    "flow": 1.0,
+    "curriculum": null,
+    "max_distance": 200,
+    "step_length": 5,
+    "yellow_length": 3,
+    "clearance_length": 2,
+    "step_ratio": 1,
+    "run_hour": null,
+    "clean_nightly": null,
+    "log_level": "INFO",
+    "save_console_log": false,
+    "delete_episode_logs": true,
+    "seed": null,
+    "gpu": 0,
+    "flat_state": true,
+    "script_launcher": true,
+    "processors": 4,
+    "trials": 5,
+    "optuna_objective": null,
+    "optuna_trials": 1000,
+    "error_bars": true,
+    "smoothing": null,
+    "xml_metrics": [
+        "timeLoss",
+        "duration",
+        "waitingTime"
+    ],
+    "csv_metrics": [
+        "rewards",
+        "max_queues",
+        "queue_lengths",
+        "vehicles",
+        "phase_length"
+    ],
+    "directions": [
+        "S-W",
+        "S-S",
+        "S-E",
+        "W-N",
+        "W-W",
+        "W-S",
+        "N-E",
+        "N-N",
+        "N-W",
+        "E-S",
+        "E-E",
+        "E-N"
+    ],
+    "phase_pairs": [
+        [
+            "S-S",
+            "N-N"
+        ],
+        [
+            "N-N",
+            "N-W"
+        ],
+        [
+            "E-S",
+            "E-N"
+        ]
+    ],
+    "pair_to_act_map": null,
+    "cluster_274083968_cluster_1200364014_1200364088": {
+        "lane_sets": {
+            "S-W": [
+                "104010354_1"
+            ],
+            "S-S": [
+                "104010354_1",
+                "104010354_2"
+            ],
+            "S-E": [],
+            "W-N": [
+                "201963537#1_3"
+            ],
+            "W-W": [],
+            "W-S": [],
+            "N-E": [],
+            "N-N": [
+                "201963537#1_1",
+                "201963537#1_2"
+            ],
+            "N-W": [],
+            "E-S": [
+                "164051413_1"
+            ],
+            "E-E": [],
+            "E-N": [
+                "164051413_2"
+            ]
+        },
+        "downstream": {
+            "N": null,
+            "E": null,
+            "S": null,
+            "W": null
+        },
+        "fixed_timings": [
+            4,
+            2,
+            4,
+            2,
+            4,
+            2,
+            4,
+            2
+        ],
+        "fixed_phase_order_idx": 0
+    },
+    "management": {
+        "top_mgr": [
+            "cluster_274083968_cluster_1200364014_1200364088"
+        ]
+    },
+    "management_neighbors": {
+        "top_mgr": []
+    },
+    "network": "C:\\dev\\Activation_Lab\\RESCO\\resco_benchmark\\environments\\ingolstadt1\\ingolstadt1.net.xml",
+    "route": "C:\\dev\\Activation_Lab\\RESCO\\resco_benchmark\\environments\\ingolstadt1\\ingolstadt1_typed.rou.xml",
+    "start_time": 57600,
+    "end_time": 61200,
+    "module": "static.fixed",
+    "state": "wave",
+    "reward": "wait",
+    "benchmark_path": "C:\\dev\\Activation_Lab\\RESCO",
+    "map": "ingolstadt1_typed",
+    "algorithm": "FIXED",
+    "uuid": "a6c185d7-df9e-4814-9167-712490056bd8"
+}
