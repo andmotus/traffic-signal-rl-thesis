@@ -1,5 +1,3 @@
-9c1bd759e8f8079cf86056a4ba0c454f61a87b3ed104d16b5e28de416be2c83b: cologne1typed+idqn_state@drqtyped_libsumo@False_gui@False_6be2c83b
-@cologne1_typed @IDQN state:drq_typed libsumo:False save_console_log:False gui:False episodes:200 save_model:True
 {
     "colors_map": {
         "Max Pressure": "C3",
@@ -120,15 +118,15 @@
     "controlled_signals": null,
     "uncontrolled_policy": "MAXPRESSURE",
     "action_set": "Phase",
-    "episodes": 200,
+    "episodes": 1,
     "converged": null,
     "log_dir": "C:\\dev\\Activation_Lab\\RESCO\\results",
-    "gui": false,
+    "gui": true,
     "libsumo": false,
     "load_sim": null,
-    "save_model": true,
+    "save_model": false,
     "save_frequency": 20,
-    "load_model": null,
+    "load_model": "6b5dd10c-c829-472a-9b51-998ee66b8b08",
     "load_replay": true,
     "training": true,
     "testing": 0,
@@ -370,5 +368,5 @@
     "benchmark_path": "C:\\dev\\Activation_Lab\\RESCO",
     "map": "cologne1_typed",
     "algorithm": "IDQN",
-    "uuid": "6b5dd10c-c829-472a-9b51-998ee66b8b08"
+    "uuid": "4c07c8d7-081d-4133-8004-f6393bcd64a1"
 }
