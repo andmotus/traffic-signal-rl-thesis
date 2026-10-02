@@ -1,0 +1,965 @@
+﻿lsanr,x,y,standort,baulast,bezirk,blindens,bemerkung,locid,mapem
+0200 (100),23575790.868805,56399764.549303,Militärringstraße / Schillingsrotter Weg / Feuerwehr Ausfahrt,StrNRW,Rodenkirchen,nein,---,nein,nein
+0201 (101),23580965.583036,56393969.630142,Zum Forstbotanischen Garten / Friedrich-Ebert-Straße,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0202 (186),23573948.011699,56370017.802944,Bonner Landstraße / BAB555,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0203 (103),23574204.56957,56367147.583156,Godorfer Hauptstraße / Kiesgrubenweg / Bonner Landstraße,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0204 (104),23574597.193506,56360067.202768,Godorfer Hauptstraße / Otto-Hahn-Straße,StrNRW,Rodenkirchen,nein,---,nein,nein
+0205 (105),23547540.172926,56382221.436515,Brühler Landstraße / Kapellenstraße / Kalscheurener Straße,StrNRW,Rodenkirchen,nein,---,nein,nein
+0206 (106),23542097.987709,56366992.76194,Brühler Landstraße / Am Kölnberg,StrNRW,Rodenkirchen,nein,---,nein,nein
+0207 (107),23541412.665805,56365149.4157,Brühler Landstraße / Alte Fischenicher Straße,StrNRW,Rodenkirchen,nein,---,nein,nein
+0208 (108),23557156.713141,56400442.289201,Brühler Landstraße / Militärringstraße / Brühler Straße,StrNRW,Rodenkirchen,ja - akustisch+taktil,---,nein,nein
+0209 (109),23542600.758884,56402910.442762,Militärringstraße / Oberer Komarweg / Am Eifeltor,StrNRW,Rodenkirchen,nein,---,nein,nein
+0210 (200),23570449.1,56398351.8,Am Verteilerkreis / Militärringstraße / Bonner Straße / BAB 555,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0232 (132),23577437.248272,56349955.529574,Industriestraße / Bunsenstraße,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0233 (133),23575752.358751,56345921.44117,Industriestraße / Kerkrader Straße,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0234 (134),23575456.148771,56341734.85565,Industriestraße / Theodor-Heuss-Straße / Degussa,StrNRW,Rodenkirchen,nein,---,nein,nein
+0235 (135),23573124.31896,56346625.613733,Kerkrader Straße / Am Dohmenhof,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0236 (136),23570695.8,56347955.1,Kerkrader Straße / BAB555-Ost und West,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0241 (141),23574432.725387,56362987.711044,Godorfer Hauptstraße / IKEA,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0250 (150),23585726.211689,56388375.694059,Industriestraße / Zum Forstbotanischen Garten / Schillingsrotter Straße,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0267 (167),23584764.638389,56369720.186521,Kiesgrubenweg / Unter den Birken,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0268 (168),23586102.605156,56369895.939735,Kiesgrubenweg / Emil-Hoffmann-Straße / Wattigniestraße,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0298 (098),23580055.576724,56404244.021227,Militärringstraße / Leyboldstraße / Konrad-Adenauer-Straße,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0299 (099),23576780.143275,56400764.969901,Militärringstraße / Zum Forstbotanischen Garten,StrNRW/Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0310 (110),23538183.606027,56407306.801903,Militärringstraße / Unterer Komarweg,StrNRW/Stadt Köln,Lindenthal,nein,---,nein,nein
+0311 (111),23532144.354793,56415048.270362,Militärringstraße / Berrenrather Straße,StrNRW/Stadt Köln,Lindenthal,nein,---,nein,nein
+0312 (112),23520789.605796,56424485.977746,Militärringstraße / Gleueler Straße,StrNRW,Lindenthal,nein,---,nein,nein
+0325 (125),23530684.454072,56407200.528063,Luxemburger Straße / BAB4-Ost,StrNRW/Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+0326 (126),23529215.036514,56405023.835552,Luxemburger Straße / BAB4-West,StrNRW/Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+0328 (128),23486980.818243,56429591.787668,Dürener Straße / BAB1-Ost / Max-Planck-Straße West,StrNRW,Lindenthal,nein,---,nein,nein
+0329 (129),23485894.388516,56429254.728997,Dürener Straße / Autobahnmeisterei,StrNRW,Lindenthal,nein,---,nein,nein
+0330 (130),23482952.106833,56428410.77571,Dürener Straße / BAB1-West,StrNRW,Lindenthal,nein,---,nein,nein
+0339 (217),23505656.264376,56435004.132044,Dürener Straße / Am Haelentor,StrNRW,Lindenthal,nein,---,nein,nein
+0340 (140),23507196.423072,56435425.792016,Dürener Straße / Stüttgenweg / Jakob-Kaiser-Str.,StrNRW,Lindenthal,nein,---,nein,nein
+0341 (225),23503012.561423,56434218.096597,Dürener Straße / Salzburger Weg,StrNRW,Lindenthal,nein,---,nein,nein
+0345 (545),23508973.4,56460546.1,Militärringstraße / Widdersdorfer Straße,StrNRW,Lindenthal,nein,---,nein,nein
+0415 (115),23505855.513882,56493477.734891,Militärringstraße / Ollenhauerring / Hugo-Eckener-Straße,StrNRW/Stadt Köln,Ehrenfeld,nein,---,nein,nein
+0416 (116),23507677.272154,56500987.583728,Militärringstraße / Buschweg,StrNRW,Ehrenfeld,nein,---,nein,nein
+0417 (117),23515564.532969,56508042.286724,Militärringstraße / Johannesstraße,StrNRW/Stadt Köln,Ehrenfeld,nein,---,nein,nein
+0430,23492818.010783,56494981.193952,Venloer Str. - B59 / BAB A1 Ost,StrNRW,Ehrenfeld,nein,---,nein,nein
+0431 (131),23490242,56496424,Venloer Straße / BAB1-Ost und West,StrNRW/Stadt Köln,Ehrenfeld,nein,---,nein,nein
+0432 (227),23489833.306911,56496659.759358,Venloer Straße / Fa. Gugel,StrNRW/Stadt Köln,Ehrenfeld,nein,---,nein,nein
+0433 (433),23488627,56497398,Venloer Straße / Garzweilerweg,StrNRW/Stadt Köln,Ehrenfeld,nein,---,nein,nein
+0434 (228),23486104,56498956,Venloer Straße / Spenrather Weg,StrNRW/Stadt Köln,Ehrenfeld,nein,---,nein,nein
+0443 (143),23503372.849392,56482612.534265,Militärringstraße / Goldammerweg,StrNRW,Ehrenfeld,nein,---,nein,nein
+0444 (144),23496891.659227,56493013.134938,Venloer Straße / Nattermannallee,StrNRW/Stadt Köln,Ehrenfeld,nein,---,nein,nein
+0462 (562),23502996.452378,56474029.149482,Militärringstraße / Vogelsanger Straße / Carl-von-Linne-Weg,StrNRW,Ehrenfeld,nein,---,nein,nein
+0518 (118),23523830.6,56513464.4,Militärringstraße / BAB57-Ost,StrNRW/Stadt Köln,Nippes,nein,---,nein,nein
+0520 (120),23528060.4,56517570,Militärringstraße / Volkhovener Weg,StrNRW/Stadt Köln,Nippes,nein,---,nein,nein
+0521 (121),23535040.2,56518926.8,Militärringstraße / Mercatorstraße / Longericher Straße,StrNRW,Nippes,nein,---,nein,nein
+0539 (139),23525196.7,56514893.8,Militärringstraße / Lindweilerweg,StrNRW/Stadt Köln,Nippes,nein,---,nein,nein
+0540 (540),23530560.9,56518769,Militärringstraße / Heimersdorfer Straße,StrNRW/Stadt Köln,Nippes,nein,---,nein,nein
+0543 (543),23545819.4,56517017.8,Militärringstraße / Herforder Straße,StrNRW,Nippes,nein,---,nein,nein
+0563 (163),23541063,56518162.2,Militärringstraße / Kaserne Lüttich,StrNRW,Nippes,nein,---,nein,nein
+0619 (219),23483727.164619,56564442.9405,Worringer Landstraße / BAB57,StrNRW,Chorweiler,nein,---,nein,nein
+0624 (124),23497386.835694,56534660.782129,Chorbuschstraße / Am Baggerfeld / Weilerstraße / Auweilerstraße,StrNRW,Chorweiler,nein,---,nein,nein
+0650 (550),23504975.354858,56527572.165838,Am Baggerfeld / Escher Straße / Bad,StrNRW,Chorweiler,nein,---,nein,nein
+0665 (165),23497898.874359,56601177.390927,Neusser Landstraße / Bayer Dormagen-Süd,StrNRW,Chorweiler,nein,---,nein,nein
+0666,23493802.792591,56609809.069921,Neusser Landstraße / Bayer Dormagen-Nord,StrNRW,Chorweiler,nein,---,nein,nein
+0667,23486644.573675,56602754.979214,Parallelweg / Bayer Dormagen - Tor 5 / S-Bahn HST,StrNRW,Chorweiler,nein,---,nein,nein
+0671 (171),23505945.438256,56524904.910969,Escher Straße / Donatusstraße,StrNRW,Chorweiler,nein,---,nein,nein
+0676 (176),23539548.848975,56540417.153219,Neusser Landstraße / Stallagsbergweg  / Asternweg,StrNRW,Chorweiler,nein,---,nein,nein
+0677 (177),23540174.373578,56539191.89584,Neusser Landstraße / Chrysanthemenweg,StrNRW,Chorweiler,nein,---,nein,nein
+0713 (013),23650220.304762,56388730.016703,Frankfurter Straße / Kennedystraße,StrNRW,Porz,nein,---,nein,nein
+0714 (014),23643649.037073,56415464.833709,Maarhäuser Weg / Hansestraße,StrNRW,Porz,nein,---,nein,nein
+0715 (015),23636434.457951,56408814.179053,Steinstraße / Humboldtstraße / Frankenstraße,StrNRW,Porz,nein,---,nein,nein
+0716 (016),23634738.902985,56402059.086805,Steinstraße / Theodor-Heuss-Straße / Hohenstaufenstraße,StrNRW,Porz,nein,---,nein,nein
+0717 (017),23649588.259903,56409209.716677,Theodor-Heuss-Straße / Hansestraße / Heumarer Straße,StrNRW,Porz,nein,---,nein,nein
+0718 (018),23647555.339112,56406460.739164,Theodor-Heuss-Straße / Rudolf-Diesel-Straße,StrNRW,Porz,nein,---,nein,nein
+0719 (019),23666532.073599,56388368.910447,Grengeler Mauspfad / Alte Kölner Straße,StrNRW/Stadt Köln,Porz,nein,---,nein,nein
+0720 (020),23666858.203045,56386718.704257,Grengeler Mauspfad / Kennedystraße Nord,StrNRW/Stadt Köln,Porz,nein,---,nein,nein
+0721 (021),23667137.702619,56385250.498659,Grengeler Mauspfad / Kennedystraße Süd,StrNRW/Stadt Köln,Porz,nein,---,nein,nein
+0722 (022),23660544.053958,56358449.900927,Heidestraße / BAB59,StrNRW,Porz,nein,---,nein,nein
+0723 (023),23670033.138271,56423306.750865,Rösrather Straße / Bensberger Straße,StrNRW/Stadt Köln,Porz,nein,---,nein,nein
+0727 (027),23594361.96181,56419191.752478,Siegburger Straße / Am Weizenacker / Poller Damm,StrNRW,Porz,nein,---,nein,nein
+0728 (028),23595347.479154,56418057.990492,Siegburger Straße / BAB4 Nord,StrNRW,Porz,nein,---,nein,nein
+0729 (029),23596899.730196,56416490.924542,Siegburger Straße / BAB4 Süd,StrNRW,Porz,nein,---,nein,nein
+0730 (030),23602073.641428,56413704.890677,Kölner Straße / Porzer Ringstraße,StrNRW/Stadt Köln,Porz,nein,---,nein,nein
+0732 (032),23606740.193777,56411655.943943,Kölner Straße / Mudra-Kaserne,StrNRW,Porz,nein,---,nein,nein
+0748 (035),23651380.540362,56377718.420137,Frankfurter Straße / Friedensstraße / Friedrich-Hirsch-Straße,StrNRW,Porz,nein,---,nein,nein
+0824 (024),23659878.236244,56437349.796529,Lützerathstraße / Rather Mauspfad,StrNRW/Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,nein
+0880 (026),23663937.474986,56457904.654687,Olpener Straße / BAB4 Refrath,StrNRW,Kalk,nein,---,nein,nein
+0931 (501),23646578.934169,56476504.691844,Dellbrücker Mauspfad / Friedhof-Ost,StrNRW,Mülheim,nein,---,nein,nein
+0970 (025),23629745.630217,56508495.721703,Dünnwalder Mauspfad / Kalkweg / Am Wildpark,StrNRW,Mülheim,nein,---,nein,nein
+0981 (001),23592199.050033,56529852.081403,Düsseldorfer Straße / Carl Duisberg Bad / Otto-Bayer-Straße,StrNRW,Mülheim,nein,---,nein,nein
+0982 (002),23592746.343058,56525969.402666,Düsseldorfer Straße / Pförtner Flittard O. / Bayer-Nord,StrNRW,Mülheim,ja - taktil,---,nein,nein
+0983 (003),23593297.975205,56522438.767335,Düsseldorfer Straße / Buschweg / Bayer-Süd,StrNRW,Mülheim,nein,---,nein,nein
+0984 (004),23594411.658982,56515559.191159,Düsseldorfer Straße / Roggendorfstraße / Grüner Kuhweg,StrNRW,Mülheim,nein,---,nein,nein
+0985 (005),23595967.568448,56505581.70383,Düsseldorfer Straße / Stammheimer Ring / Dünnwalder Kommunalweg,StrNRW,Mülheim,nein,---,nein,nein
+0986 (006),23596065.948251,56504188.840165,Düsseldorfer Straße / Höhenhauser Ring,StrNRW,Mülheim,nein,---,nein,nein
+0987 (007),23595934.235852,56501838.749883,Düsseldorfer Straße / Ricarda-Huch-Straße / Moses-Heß-Straße,StrNRW,Mülheim,nein,---,nein,nein
+0313 (113),23514777.119505,56446240.68212,Militärringstraße / Friedrich-Schmidt-Straße,StrNRW,Lindenthal,nein,---,nein,nein
+1157,23578722.126063,56439333.103655,Im Hasental / Alter Mühlenweg,Stadt Köln,Innenstadt,nein,---,nein,ja
+1183,23582825.727598,56430307.631008,Siegburger Straße / Am Schnellert,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1386,23555211.021403,56433815.583941,Eifelplatz / Warnblinkanlage,Stadt Köln,Innenstadt,nein,---,nein,nein
+1100,23575493.485448,56442662.468799,Troisdorfer Str. / Helenenwallstr.,Stadt Köln,Innenstadt,nein,---,nein,nein
+1101,23576080,56442828,Troisdorfer Straße / Severinsbrücke / Deutzer Ring,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1102,23576719,56442112,Gotenring / Severinsbrücke / Deutzer Ring,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1103,23578265.647905,56443337.165174,Gotenring / Suevenstraße / Schaurtestraße,Stadt Köln,Innenstadt,ja - akustisch+taktil+LocID,---,ja,nein
+1104,23578866.263991,56444646.55934,Gotenring / Alarichstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,nein
+1106,23579264.84663,56447704.259563,Gotenring / Deutzer Freiheit / Deutz-Kalker Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1107,23581795.75857,56447958.496181,Deutz-Kalker Straße / Östliche Zubringerstraße/ Opladener Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1108,23577315.693741,56450853.492238,Opladener Straße / Ottoplatz / Neuhöfferstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil+LocID,---,ja,ja
+1109,23579568.028469,56449745.203993,Justinianstraße / Constantinstraße,Stadt Köln,Innenstadt,ja - taktil,---,nein,nein
+1110,23581233.40417,56452655.291988,Deutz-Mülheimer Straße / Barmer Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,nein
+1111,23582037.64549,56454173.530455,Deutz-Mülheimer Straße / Messe-Haupteingang,Stadt Köln,Innenstadt,nein,---,nein,nein
+1112,23582952.611202,56455511.152134,Deutz-Mülheimer Straße / Messekreisel Süd / Brügelmannstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1113,23583384.677484,56456465.173697,Deutz-Mülheimer Straße / Messekreisel Nord,Stadt Köln,Innenstadt,nein,---,nein,nein
+1114,23583686.838863,56455751.440638,Deutz-Mülheimer Straße / Messekreisel Ost / Pfälzischer Ring,Stadt Köln,Innenstadt,nein,---,nein,nein
+1164,23574400.597787,56442337.705585,Siegburger Straße / Troisdorfer Straße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1165,23575321.939434,56440389.02129,Siegburger Straße / Teutonenstraße,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1167,23578831.52565,56435160.051035,Siegburger Straße / Kaltenborn Weg,Stadt Köln,Innenstadt,nein,---,nein,ja
+1168,23580673.346637,56432446.472921,Siegburger Straße / Poller Kirchweg,Stadt Köln,Innenstadt,nein,---,nein,ja
+1170,23574200.9,56446012.1,Siegburger Straße / Arminiusstraße / Herbert-Liebertz-Weg,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1171,23574510.431975,56447496.471249,Siegburger Straße / Deutzer Brücke / Deutzer Freiheit,Stadt Köln,Innenstadt,nein,---,nein,nein
+1173,23575512.356468,56450700.73353,Hermann-Pünder Str. / Mindener Str.,Stadt Köln,Innenstadt,ja - taktil,---,nein,nein
+1174,23576249.827113,56450946.896664,Ottoplatz / Auenweg / Hermann-Pünder Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil+LocID,---,ja,ja
+1176,23576140.205336,56453072.685111,Auenweg / Charles-de-Gaulle-Platz,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1182,23576904.684591,56438243.322397,Siegburger Straße / Im Hasental / Alfred-Schütte-Allee,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1190,23582972.803094,56447941.619922,Deutz-Kalker Straße / Gummersbacher Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1191,23579974,56450452,Deutz-Mülheimer Straße / Opladener Straße / Justinianstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1192,23585385.58951,56446743.757412,Deutz-Kalker Straße / Reitweg,Stadt Köln,Innenstadt,ja - akustisch+taktil+LocID,---,ja,ja
+1193,23587130.4,56447082,Deutz-Kalker Straße / Betzdorfer Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil+LocID,---,ja,nein
+1195,23582042.5,56449866.7,Opladener Straße / Ausfahrt Parkhaus,Stadt Köln,Innenstadt,nein,---,nein,ja
+1205,23574846.505395,56466893.960009,Konrad-Adenauer-Ufer / Elsa-Brändstöm-Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1206,23573691.496001,56465510.072146,Konrad-Adenauer-Ufer / Worringer Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1207,23572700.422871,56464269.60479,Konrad-Adenauer-Ufer / Wörthstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1208,23571428.302672,56462270.090244,Konrad-Adenauer-Ufer / Theodor-Heuss-Ring,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1209,23570695.337394,56460979.090245,Konrad-Adenauer-Ufer / Thürmchenswall,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1210,23570118.6,56459687.4,Konrad-Adenauer-Ufer / Dagobertstraße / Kunibertklostergasse,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1211,23569232.60714,56457246.232807,Konrad-Adenauer-Ufer / Machabäerstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1212,23568663.081633,56454684.78253,Konrad-Adenauer-Ufer / Goldgasse,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1214,23568458.182669,56453436.329292,Konrad Adenauer Ufer / Trankgasse,Stadt Köln,Innenstadt,nein,---,nein,ja
+1223,23573584.935564,56468792.466376,Riehler Straße / Elsa-Brändström-Straße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1224,23571904.906642,56467834.201597,Riehler Straße / Riehler Platz,Stadt Köln,Innenstadt,nein,---,nein,ja
+1225,23569769.437517,56466626.303142,Riehler Straße / Reichenspergerplatz,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1226,23567606.965357,56464804.112962,Riehler Straße / Schillingstraße / Sedanstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1227,23566427.617664,56463535.281141,Riehler Straße / Theodor-Heuss-Ring / Ebertplatz Nord,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1228,23566180.4,56462624.8,Turiner Straße / Theodor-Heuss-Ring / Ebertplatz Süd,Stadt Köln,Innenstadt,nein,---,nein,ja
+1229,23565923.433251,56461743.656963,Turiner Straße / Thürmchenswall,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1230,23565262.025362,56458768.679103,Turiner Straße / Machabäerstraße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1231,23564869.849114,56457836.040119,Turiner Straße / Maximinenstraße / Ursulastraße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1232,23562287.138002,56456850.45637,Tunisstraße / Victoriastraße / Ursularstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1234,23562049.023975,56450384.046883,Tunisstraße / Breite Straße / Röhrergasse,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1235,23561865.223523,56449654.059319,Tunisstraße / Glockengasse / Brückenstraße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1236,23561578.22972,56448552.032525,Tunisstraße / Streitzeuggasse / Brüderstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1242,23564874.521246,56468400.52558,Neusser Straße / Krefelder Wall / Neusser Platz,Stadt Köln,Innenstadt,nein,---,nein,ja
+1243,23565259.403766,56467064.025715,Neusser Straße / Weißenburgstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1244,23565178.206852,56465806.533914,Neusser Straße / Balthasarstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1245,23565004.193534,56463473.137467,Neusser Straße / Ebertplatz Nord,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1246,23564855.393197,56462742.728147,Hansaring / Ebertplatz Süd,Stadt Köln,Innenstadt,nein,---,nein,ja
+1247,23565482.087636,56459750.348832,Turiner Straße / Unter Krahnenbäumen,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1249,23565704.183084,56460781.967211,Turiner Straße / Dagobertstraße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1255,23561273.691288,56457174.878729,Victoriastraße / Eintrachtstraße / Kardinal-Frings-Straße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1256,23560198.244103,56457352.730027,Victoriastraße / Klingelpütz,Stadt Köln,Innenstadt,nein,---,nein,ja
+1261,23553510.349476,56452074.362508,Magnusstraße / Friesenwall,Stadt Köln,Innenstadt,nein,---,nein,ja
+1262,23554697.978628,56451677.812353,Magnusstraße / Alte Wallgasse / Römergasse,Stadt Köln,Innenstadt,nein,---,nein,ja
+1267,23566544.300234,56453099.951629,Am Domhof / Trankgasse,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1272,23561747.563182,56454262.762173,Tunisstraße / Unter Sachsenhausen,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1274,23558065.619454,56455182.085447,Christophstraße / Mohrenstraße / Klingelpütz,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1281,23561762.514172,56453056.390263,Tunisstraße / Komödienstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1284,23558237.956549,56452851.596811,Zeughausstraße / Mohrenstraße / Auf dem Berlich,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1285,23557010.589276,56452640.376875,Magnusstraße / Sankt-Apern-Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1286,23555691.841881,56451806.476659,Magnusstraße / Albertusstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1301,23568796.11092,56445756.751903,Am Leystapel / Heumarkt / Markmansgasse,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1302,23568739.427261,56444388.195527,Am Leystapel / Filzengraben,Stadt Köln,Innenstadt,nein,---,nein,ja
+1303,23568611.603382,56442943.483974,Am Leystapel / Große Witschgasse / Schokoladenmuseum,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1304,23568332.447691,56441492.922115,Holzmarkt / Kleine Witschgasse / Severinsbrücke,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1305,23568345.7221,56438523.513179,Holzmarkt / Mechtildisstraße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1306,23570031.805766,56434785.606209,Bayenstraße / Dreikönigenstraße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1307,23571044.457936,56432178.795916,Am Bayenturm / Ubierring-Nord / Wender TG,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1308,23571331.082648,56431107.469919,Agrippinaufer / Ubierring-Süd,Stadt Köln,Innenstadt,nein,---,nein,ja
+1309,23573255,56424845,Agrippinaufer / Gustav-Heinemann-Ufer / Südbrücke,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1315,23566817.675502,56438447.596945,Mechtildisstraße / Im Sionstal,Stadt Köln,Innenstadt,ja - taktil,---,nein,nein
+1321,23561906.756666,56444034.813691,Neuköllner Straße / Agrippastraße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1322,23562092.313071,56443307.808313,Neuköllner Straße / Großer Griechenmarkt,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1323,23562381.371714,56442296.414507,Neuköllner Straße / Tel-Aviv-Straße / Blaubach,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1324,23563251.306013,56437386.93765,Ulrichgasse / Ankerstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1325,23562639.693848,56436594.30468,Ulrichgasse / Paulstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1326,23561986.788097,56435721.299346,Ulrichgasse / Kartäusergasse / Vor den Siebenburgen,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1327,23561254.327669,56434270.162118,Ulrichgasse / Kartäuserwall / Wender Sachsenring,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1328,23560963.913843,56433649.577026,Ulrichgasse / Sachsenring / Ulrepforte,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1330,23560661.226161,56432432.112855,Vorgebirgstraße / Lothringer Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1332,23559887.476644,56430433.305248,Vorgebirgstraße / Volksgartenstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1333,23558951.016938,56428148.930181,Vorgebirgstraße / Bonner Wall,Stadt Köln,Innenstadt,nein,---,nein,ja
+1341,23552936.390589,56441829.172535,Hohenstaufenring / Zülpicher Platz / Jahnstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1342,23553507.648304,56439760.626277,Barbarossaplatz / Hohenstaufenring / Roonstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1343,23554171.711303,56438767.992829,Barbarossaplatz-Süd / Salierring / Pfälzer Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1344,23555879.520751,56437162.531674,Salierring / Am Weidenbach / Am Duffesbach,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1345,23556977.250692,56436253.320723,Salierring / Eifelstraße / Waisenhausgasse,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1346,23563777.503569,56431578.873774,Karolingerring / Brunostraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1347,23567452.081576,56430699.922199,Ubierring / Alteburger Straße / Chlodwigplatz,Stadt Köln,Innenstadt,nein,---,nein,ja
+1348,23568586.938336,56431097.032328,Ubierring / Mainzer Straße / An der Bottmühle,Stadt Köln,Innenstadt,nein,---,nein,ja
+1351,23566171.076935,56444222.529888,Mühlenbach / Filzengraben / An der Malzmühle,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1352,23563867,56443396.7,Mühlenbach / Waidmarkt / Blaubach,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1353,23560464.916011,56441183.637485,Rothgerberbach / Perlengraben / Blaubach,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1354,23557504.366578,56440699.711748,Rothgerberbach /  Am Weidenbach / Griechenpforte,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1355,23554570.51786,56440232.709381,Neue Weyerstraße / Pantaleonswall,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1363,23566923.2,56446084.1,Heumarkt / Pipinstraße / Am Malzbüchel,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1387,23551919.222647,56440930.959709,Zülpicher Straße / Zülpicher Platz / Roonstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1388,23549728.401099,56439075.856552,Zülpicher Straße. / Moselstraße / Kyffhäuserstraße / Dasselstraße,Stadt Köln,Innenstadt,ja - taktil,---,nein,nein
+1394,23566723.303682,56425058.998414,Bonner Straße / Bonner Wall / Alteburger Wall,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1398,23572488.325129,56427159.944357,Agrippinaufer / Oberländer Wall,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1401,23560150.160729,56468882.999004,Innere Kanalstraße / Krefelder Straße / Merheimer Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1402,23561482.6,56465030.9,Krefelder Str. 59,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1404,23561952.319985,56462736.801063,Krefelder Straße / Maybachstraße / Lübecker Straße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1405,23558773.874034,56468061.459048,Innere Kanalstraße / Escher Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1407,23553665.122617,56456074.617774,Kaiser-Wilhelm-Ring / Goebenstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1408,23555199.871072,56457618.183251,Hansaring /  Hermann-Becker-Straße / Kaiser-Wilhelm-Ring,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1409,23556473.748559,56458455.907252,Hansaring / Von-Werth-Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1410,23563387.194405,56462367.206653,Hansaring / Lübecker Straße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1411,23562161.996215,56461766.658586,Hansaring / Krefelder Straße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1412,23560699.714704,56460995.64435,Hansaring / Ritterstraße / Schule,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1413,23558765.705882,56459943.63641,Hansaring / Bremer Straße / Adolf-Fischer-Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1414,23557028.646082,56458813.56661,Hansaring / Am Kümpchenshof,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1415,23554740.4,56456803.3,Kaiser-Wilhelm-Ring / Gladbacher Straße / Christophstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1430,23556247.698716,56455925.491238,Christophstraße / Probsteigasse / Gereonskloster,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1431,23555450.852916,56456335.15914,Christophstraße / Von-Werth-Straße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1432,23553140.922419,56457922.114728,Gladbacher Straße / Spichernstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1433,23551408.264454,56459113.342994,Gladbacher Straße / Erftstraße / Schule,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1434,23549860.127592,56460166.980606,Subbelrather Straße / Herkulesstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1448,23553397.436731,56458914.314839,Erftstraße / Im Mediapark,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1450,23557658.703534,56457895.35822,Kyotostraße / Gereonswall / Am Kümpchenshof,Stadt Köln,Innenstadt,nein,---,nein,ja
+1451,23556478.705088,56459610.439988,Am Kümpchenshof / Maybachstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1452,23554910.098896,56458685.648091,Erftstraße / Maybachstraße / Hermann-Becker-Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1453,23554081.11819,56458797.434518,Erftstraße / Spichernstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1416,23553162.950262,56454529.055298,Kaiser-Wilhelm-Ring / Bismarckstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1417,23552716,56452359,Hohenzollernring / Friesenplatz / Im Klapperhof / Magnusstraße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1418,23552239.130201,56450047.766598,Hohenzollernring / Maastrichter Straße / Limburger Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1421,23551995.450817,56445804.969184,Habsburgerring / Hohenstaufenring / Lindenstraße / Schaafenstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1422,23552401.851519,56444062.331981,Hohenstaufenring / Beethovenstraße / Schaevenstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1455,23549136.63255,56453108.891014,Bismarckstraße / Brüsseler Straße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1457,23548573.869346,56444048.981083,Roonstraße / Lindenstraße / Mozartstraße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1458,23550298.645108,56442417.804516,Roonstraße / Beethovenstraße / Rathenauplatz,Stadt Köln,Innenstadt,nein,---,nein,ja
+1462,23551293.642999,56452854.007626,Venloer Straße / Friesenplatz / Kamekestraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1464,23550251.325982,56453796.998749,Venloer Straße / Bismarckstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1465,23549642.291397,56454322.102726,Venloer Straße / Spichernstraße / Brüsseler Straße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1466,23547959.936316,56455741.429923,Venloer Straße / Hans-Böckler-Platz / Ludolf-Camphausen-Straße,Stadt Köln,Innenstadt,nein,---,nein,ja
+1472,23547535.841763,56452106.349366,Vogelsanger Straße / Moltkestraße / Bismarckstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1473,23546333.2,56452675.6,Vogelsanger Straße / Ludolf-Camphausen-Straße / Schmalbeinstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1474,23547304.756219,56445320.401148,Roonstraße / Moltkestraße / Lützowstraße / Jülicher Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1475,23547226.769458,56442837.982823,Lindenstraße / Lützowstraße / Dasselstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1501,23552151.64396,56437789.505823,Luxemburger Straße / Trierer Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1502,23551842.024246,56437311.790263,Luxemburger Straße / Moselstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1503,23550376.86068,56435240.040536,Luxemburger Straße / Eifelwall / Luxemburger Wall,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,nein
+1595,23566865.311052,56446676.846926,Heumarkt / Augustinerstraße / Gürzenichstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1596,23565242.078865,56446253.588336,Cäcilienstraße / Augustinerstraße / Kleine Sandkaul,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1597,23563952.3,56445984.9,Cäcilienstraße / Hohe Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1598,23562529.686552,56445941.689446,Cäcilienstraße / An Sankt Agatha,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1599,23561805.751183,56446151.260505,Cäcilienstraße / Nord-Süd-Fahrt,Stadt Köln,Innenstadt,nein,---,nein,nein
+1600,23561132.508672,56446278.718295,Cäcilienstraße / Antonsgasse,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1601,23559658.782177,56446406.72786,Cäcilienstraße / Kronengasse,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1602,23558889.688467,56446613.133676,Neumarkt Ost / Fleischmengergasse / TK Remagen,Stadt Köln,Innenstadt,ja - akustisch+taktil+LocID,---,ja,ja
+1603,23557885.838826,56447591.57616,Neumarkt Nord / Richmodstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1604,23557510.183318,56446794.34585,Neumarkt / Remagen,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1605,23556660.967108,56446999.009052,Neumarkt West / Hahnenstraße / Im Laach,Stadt Köln,Innenstadt,ja - taktil,---,nein,nein
+1606,23555521.472294,56447078.396849,Hahnenstraße / Apostelnkloster / Marsilstein,Stadt Köln,Innenstadt,ja - taktil,---,nein,nein
+1607,23554389.940539,56447058.397597,Hahnenstraße / Benesisstraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,nein
+1608,23552689.44309,56446851.415873,Hahnenstraße / Pilgrimstraße,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1609,23551831.244835,56447769.900201,Hohenzollernring / Aachener Straße / Rudolfplatz,Stadt Köln,Innenstadt,nein,---,nein,nein
+1610,23551889.881701,56446628.787656,Habsburgerring / Richard-Wagner-Straße,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1611,23550932.188019,56447905.546978,Aachener Straße / Händelstraße / Brabanter Straße,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1612,23550341.927916,56446678.76624,Richard-Wagner Straße / Händelstraße,Stadt Köln,Innenstadt,ja - taktil,---,nein,nein
+1613,23548824.331604,56447991.317904,Aachener Straße / Brüsseler Straße,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1614,23548735.18911,56446784.170739,Richard-Wagner-Straße / Brüsseler Straße,Stadt Köln,Innenstadt,ja - taktil,---,nein,nein
+1615,23547415.722118,56448047.635114,Aachener Straße / Moltkestraße,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1616,23547357.36204,56446859.247345,Richard-Wagner-Straße / Moltkestraße,Stadt Köln,Innenstadt,ja - taktil,---,nein,ja
+1617,23544861.560281,56447985.460211,Aachener Straße / Aachener Weiher / Richard-Wagner-Straße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+1389,23553598.945756,56431649.748593,Höninger Weg / Eifelstraße / Eifelwall,Stadt Köln,Innenstadt,nein,---,nein,ja
+1801,23589802.982743,56447104.344595,Deutz-Kalker-Straße / Deutzer Ring,Stadt Köln,Innenstadt,nein,---,nein,nein
+1871,23589495.655461,56445945.124872,Deutzer Ring / Gießener Straße,Stadt Köln,Innenstadt,nein,---,nein,nein
+1872,23587076.057952,56441810.954885,Deutzer Ring / Kannebäckerstraße,Stadt Köln,Innenstadt,nein,---,nein,nein
+2003,23567616.487322,56418948.841571,Bonner Straße / Brühler Straße / Schönhauser Straße / Marktstraße,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2004,23567960.772031,56416613.376969,Bonner Straße / Mathiaskirchplatz,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2005,23568245.23654,56414750.642195,Bonner Straße / Cäsarstraße / Schule,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2006,23568563.56743,56412736.436245,Bonner Straße / Annastraße,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2007,23568844.316894,56410929.889112,Bonner Straße / Bayenthalgürtel / Raderberggürtel,Stadt Köln,Rodenkirchen,ja - taktil,---,nein,nein
+2008,23569462.483031,56407135.379493,Bonner Straße / Gaedestraße / Marienburger Straße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2009,23569798.260559,56404368.993466,Bonner Straße / Leyboldstraße / Sinziger Straße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2010,23570300.674467,56400828.346081,Bonner Straße / Lindenallee / Heidekaul,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2020,23565842.5103,56415458.756049,Brühler Straße / Rheinsteinstraße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2023,23563345.488605,56411117.51693,Brühler Straße / Raderthalgürtel / Raderberggürtel,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2024,23561165.330323,56407333.740807,Brühler Straße / Markusstraße / Urfelder Straße,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2025,23558760.67103,56403245.883648,Brühler Straße / Truppenamt,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2027,23541162.602657,56364364.068382,Brühler Landstraße / Schulstraße,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2028,23540764.6,56363509.7,Brühler Landstraße / Alte Köln Straße,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2029,23539826.95575,56362572.169984,Brühler Landstraße / Auf dem Rosenhügel / Kindergarten / Am Magerhof,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2030,23538171.849193,56359272.272842,Brühler Landstraße / Auf der Ronne / Alte Brühler Straße,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2039,23558059.88947,56425945.761627,Vorgebirgstraße / Bischofsweg,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2040,23557103.309002,56423683.214355,Vorgebirgstraße / Am Vorgebirgstor,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2041,23556023.098736,56421013.43208,Vorgebirgstraße / Herthastraße / Homburger Straße,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2042,23555792.194188,56418559.259576,Vorgebirgstraße / Gottesweg / Zollstockweg,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2043,23555657.4,56416303.3,Vorgebirgstraße / Bodendorfer Straße,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2044,23555527.991674,56413342.685257,Vorgebirgstraße / Roisdorfer Straße / Schwalbacher Straße,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2045,23555439.246364,56412218.578416,Vorgebirgstraße / Zollstockgürtel / Raderthalgürtel,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2049,23551782.017138,56426981.64282,Pohligstraße / Berlin-Kölnische Allee / Weyerstraßerweg,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2060,23548679.188801,56415152.228062,Zollstockgürtel / Neuer Weyerstraßerweg / Bernkasteler Straße,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2061,23551293.880042,56413479.879062,Zollstockgürtel / Kalscheurer Weg,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2062,23558347.2,56411769.8,Raderthalgürtel / Leichweg / Schule,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2063,23561605.806641,56411275.32904,Raderthalgürtel / Raderthaler Straße / Wender,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2064,23565451.348878,56411056.882297,Raderberggürtel / Deutsche Welle / Schule / Wender,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2065,23567551,56410966.5,Raderberggürtel / Mertener Straße / Schule,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2066,23572105.538799,56411352.59561,Bayenthalgürtel / Schillerstraße / Goethestraße,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2067,23573738.560399,56411795.495162,Bayenthalgürtel / Goltsteinstraße / Pferdmengesstraße,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2070,23571485.930453,56420892.764635,Alteburger Straße / Schönhauser Straße / Goltsteinstraße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2071,23570955.493356,56420644.171919,Koblenzer Straße / Schönhauser Straße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2074,23582655.521737,56407180.174914,Oberländer Ufer / Militärringstraße / Heinrich-Lübke-Ufer,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2078,23565306.511695,56381928.381925,Rodenkirchener Straße / Lerchenweg / Adlerstraße,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2103,23593340,56393710,Weißer Straße / Siegfriedstraße / Grimmelshausenstraße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2105,23597068.118117,56389063.225337,Weißer Straße / Grüngürtelstraße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2106,23603205.604963,56384701.146788,Weißer Straße / Hammerschmidtstraße / Adolf-Menzel-Straße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2107,23612010.245403,56376808.580773,Heinrichstraße / Müller-Armack-Straße / Schule,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2111,23587871.905497,56394930.563629,Ringstraße / Schillingsrotter Straße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2115,23592997.297702,56387627.767368,Sürther Straße / Moselstraße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2116,23593583.775573,56386523.254115,Sürther Straße / Grüngürtelstraße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2117,23595381.316256,56381661.21741,Sürther Straße / Pfarrer-Te-Reh-Straße / Martinsweg,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2120,23596371.428806,56372911.608014,Sürther Straße / Kölnstraße / Am Feldrain / Wattigniesstraße,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2121,23601384.852908,56367062.340294,Sürther Hauptstraße / Kölnstraße / Rheinaustraße / Schule,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2122,23593979.971881,56372050.239429,Industriestraße / Wattigniesstraße / Auffahrt,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2123,23592820.471006,56372916.882041,Industriestraße / Wattigniesstraße / Abfahrt,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2124,23590640.087856,56367771.28909,Industriestraße / Ober Buschweg / Emil-Hoffmann-Straße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2130,23584141.143995,56395952.81335,Friedrich-Ebert-Straße / Römerstraße / Konrad-Adenauer-Straße,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2131,23586443.325014,56390065.601911,Schillingsrotter Straße / Römerstraße,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2314,23580643.099591,56410103.789914,Oberländer Ufer / Marienburger Straße,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2310,23574236.494227,56422192.762463,Gustav-Heinemann-Ufer / Schönhauser Straße,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2311,23575751.192982,56418718.013532,Gustav-Heinemann-Ufer / Tacitusstraße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2312,23577771.92677,56414793.419568,Gustav-Heinemann-Ufer / Bayenthalgürtel,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2313,23579694.860605,56411490.196315,Oberländer Ufer / An der Alteburger Mühle,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2080,23541292.265366,56399400.360294,Am Eifeltor / BAB4 Nord / GVZ,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2081,23540314.235937,56396708.371372,Am Eifeltor / BAB4 Süd / GVZ,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2082,23539840.901773,56395083.558868,Am Eifeltor / Zufahrt 1 / GVZ,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2083,23538588.066511,56388340.117581,Am Eifeltor / Zufahrt 3 / Zollstocker Weg-ehmals,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,nein
+2084,23537025.282138,56386401.36671,Am Eifeltor / Zufahrt 4 / Zollstocker Weg-ehmals,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,nein
+2085,23535076.042857,56384531.359531,Am Eifeltor / Zufahrt 5 / Zollstocker Weg-ehmals,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2102,23591570.684203,56396247.061855,Hauptstraße / Weißer Straße / Sürther Straße / Gudrunstraße / Walther-Rathenau-Straße,Stadt Köln,Rodenkirchen,nein,---,nein,ja
+2104,23594922.619841,56391371.834373,Weißer Straße / Siegstraße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2110,23586647.354342,56396879.537121,Ringstraße / Maternusstraße / Brückenstraße,Stadt Köln,Rodenkirchen,ja - akustisch+taktil,---,nein,ja
+2112,23590696.809579,56391784.817812,Ringstraße / Siegfriedstraße / Rotterbergstraße,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+2050,23553144.26446,56426031.656383,Höninger Weg / Am Vorgebirgstor / Pohligstraße,Stadt Köln,Rodenkirchen,ja - taktil,---,nein,ja
+2052,23552988.641621,56419253.666832,Höninger Weg / Gottesweg,Stadt Köln,Rodenkirchen,ja - taktil,---,nein,ja
+2053,23552600.060552,56417818.548861,Höninger Weg / Bernkasteler Straße / Zollstocksweg,Stadt Köln,Rodenkirchen,ja - taktil,---,nein,ja
+2054,23552695.532273,56415983.499404,Höninger Weg / Kalscheurer Weg / Walberberger Straße,Stadt Köln,Rodenkirchen,ja - taktil,---,nein,ja
+2055,23553142.894744,56412713.233101,Höninger Weg / Zollstockgürtel,Stadt Köln,Rodenkirchen,ja - taktil,---,nein,ja
+3000,23479327.631617,56483150.079329,Hauptstraße / Neue Sandkaul / Alte Sandkaul,Stadt Köln,Lindenthal,ja - taktil,---,nein,nein
+3001,23475173.769761,56481157.700576,Hauptstraße / Leonhardsgasse / Blaugasse,Stadt Köln,Lindenthal,nein,---,nein,nein
+3002,23475348.501178,56461577.327292,Brauweilerstraße / Zaunstraße / Karl-Kaulen-Straße,Stadt Köln,Lindenthal,ja - taktil,---,nein,nein
+3003,23476082.439992,56460186.539585,Brauweilerstraße / Kölner Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3004,23476493.379372,56459219.174092,Brauweilerstraße / Moltkestraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3005,23479093.258655,56461164.758036,Kölner Straße / Otterweg / Biberweg,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3006,23500263.762933,56467221.780411,Gregor-Mendel-Ring / Belvederestraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3100,23523739.160246,56454655.746509,Maarweg / Stolberger Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3102,23514216.593563,56456172.002703,Stolberger Straße / Linnicher Straße / Kindergarten,Stadt Köln,Lindenthal,nein,---,nein,nein
+3104,23510179.214968,56454014.772665,Alter Militärring / Wendelinstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3107,23514990.047572,56460965.697698,Widdersdorfer Straße / Vitalisstraße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3110,23486376.595185,56455863.986137,Ludwig-Jahn-Straße / Stormstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3111,23478677.688094,56456829.730525,Brauweilerstraße / Goethestraße / Bahnstraße / Ludwig-Jahn-Straße,Stadt Köln,Lindenthal,ja - taktil,---,nein,ja
+3117,23500859.665735,56450144.198561,Kirchweg / Frankenstraße / Am Römerhof,Stadt Köln,Lindenthal,nein,---,nein,ja
+3119,23494437.7,56444519.6,Kölner Weg / Am Weidenpesch / Kirchweg,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3120,23491635.522823,56448447.159538,Vogelsanger Weg / Blumenallee / Eifelallee,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+3121,23484649.148911,56448651.387038,Ostlandstraße / Breslauer Straße / Diepenbeekallee,Stadt Köln,Lindenthal,nein,---,nein,ja
+3122,23482235.995607,56448859.654406,Ostlandstraße / Göttinger Straße / Stettiner Weg,Stadt Köln,Lindenthal,nein,---,nein,nein
+3123,23477418.370962,56449071.698899,Ostlandstraße / An der Alten Post,Stadt Köln,Lindenthal,nein,---,nein,nein
+3124,23472995.612691,56449495.814936,Grüner Weg / Am Kliepesch / Frechener Weg,Stadt Köln,Lindenthal,nein,---,nein,nein
+3126,23512626,56461342.8,Widdersdorfer Straße / Girlitzweg,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+3127,23512075.630973,56461248.414945,Widdersdorfer Straße / Handelshof,Stadt Köln,Lindenthal,nein,---,nein,nein
+3130,23538624.03696,56443349.118834,Dürener Straße / Classen-Kappellmann-Straße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+3131,23537096.160663,56442564.739621,Dürener Straße / Hans-Sachs-Straße / Schallstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3132,23536107.223452,56442114.660993,Dürener Straße / Geibelstraße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3133,23534826.374822,56441376.265007,Dürener Straße / Klosterstraße / Lindenburger Allee,Stadt Köln,Lindenthal,nein,---,nein,ja
+3135,23531921.257686,56439673.287083,Dürener Straße / Hillerstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+3137,23517373.977496,56435693.172622,Dürener Straße / Militärringstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3138,23496242.086396,56432226.034316,Dürener Straße / Marsdorfer Straße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3139,23493463.714874,56431401.439908,Dürener Straße / Horbeller Straße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3140,23492340.179339,56431086.907113,Dürener Straße / Max-Planck-Straße Ost,Stadt Köln,Lindenthal,ja - taktil,---,nein,nein
+3141,23489687.421429,56430349.26062,Dürener Straße / Hermann-Heinrich-Gossen-Straße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3142,23495124.851504,56425990.300461,Horbeller Straße / Toyota-Allee,Stadt Köln,Lindenthal,nein,---,nein,nein
+3143,23489024.264471,56430184.11023,Dürener Straße / Emmy-Noether Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3145,23535183.262444,56438859.126581,Bachemer Straße / Lindenburger Allee,Stadt Köln,Lindenthal,nein,---,nein,nein
+3150,23540468.388674,56441607.001617,Bachemer Straße / Weyertal,Stadt Köln,Lindenthal,nein,---,nein,nein
+3151,23539345.411263,56441428.548635,Bachemer Straße / Hans-Sachs-Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3154,23535286.427832,56436672.518845,Gleueler Straße / Lindenburger Allee / Schule,Stadt Köln,Lindenthal,nein,---,nein,nein
+3155,23529194.768334,56431932.120823,Gleueler Straße / Mommsenstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3156,23527839.199732,56430439.263094,Gleueler Straße / Freiligrathstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+3160,23542642.384835,56435251.520093,Kerpener Straße / Weyertal,Stadt Köln,Lindenthal,nein,---,nein,nein
+3162,23538774.584888,56433890.901654,Kerpener Straße / Joseph-Stelzmann-Straße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3163,23535513.706696,56433183.023629,Kerpener Straße / Rurstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3174,23528128.747937,56429365.793993,Zülpicher Straße / Freiligrathstraße / Krieler Dom,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3176,23534755.513601,56427089.911704,Euskirchener Straße / Mommsenstraße / Schule,Stadt Köln,Lindenthal,nein,---,nein,nein
+3181,23542873.477435,56429371.347915,Berrenrather Straße / Redwitzstraße / Schule,Stadt Köln,Lindenthal,nein,---,nein,nein
+3182,23541035.439038,56427234.700116,Berrenrather Straße / Sülzburgstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3183,23539246.979,56424545.677182,Berrenrather Straße / Manderscheider Platz,Stadt Köln,Lindenthal,nein,---,nein,nein
+3184,23533315.234993,56416281.474051,Berrenrather Straße / Scherfginstraße / Schule,Stadt Köln,Lindenthal,nein,---,nein,ja
+3187,23542061.742419,56419944.293233,Klettenberggürtel / Petersbergstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3188,23543601.03231,56418647.888536,Klettenberggürtel / Siebengebirgsallee,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3189,23544818.101503,56417621.757102,Klettenberggürtel / Rhöndorfer Straße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3197,23550148.262454,56428144.804736,Weißhausstraße / Pohligstraße / Rhöndorfer Straße / Rudolf-Amelunxen-Straße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+3198,23541223.923766,56420650.805133,Klettenberggürtel / Wende-Kirche-Bruno,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+3521,23534328.036352,56412397.796107,Luxemburger Straße / Militärringstraße,HGK,Lindenthal,nein,---,nein,nein
+3639,23501815.311728,56450734.729346,Aachener Straße / Am Römerhof,Stadt Köln,Lindenthal,nein,---,nein,ja
+3640,23501024.875032,56450736.873899,Aachener Straße / Kirchweg / Brauweilerweg,Stadt Köln,Lindenthal,nein,---,nein,ja
+3642,23498716.755602,56450820.78935,Aachener Straße / Rosenweg,Stadt Köln,Lindenthal,nein,---,nein,ja
+3643,23497137.505335,56450865.038979,Aachener Straße / Liebermannstraße / Kornblumenweg,Stadt Köln,Lindenthal,nein,---,nein,ja
+3644,23494552.90971,56451040.258293,Aachener Straße / Mohnweg,Stadt Köln,Lindenthal,nein,---,nein,ja
+3645,23491147.899474,56451218.842264,Aachener Straße / Vogelsanger Weg,Stadt Köln,Lindenthal,nein,---,nein,ja
+3646,23489716.711573,56451336.119991,Aachener Straße / BAB1 Ost,Stadt Köln,Lindenthal,nein,---,nein,ja
+3647,23487434.814199,56451449.989634,Aachener Straße / Kurze Straße / Körnerstraße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3648,23486559.530309,56451506.621041,Aachener Straße / BAB1 West,Stadt Köln,Lindenthal,nein,---,nein,ja
+3649,23485489.576834,56451599.192859,Aachener Straße / Bahnstraße / Breslauer Straße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3650,23483043.608762,56451738.751993,Aachener Straße / Römerstraße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3651,23480236.770892,56451862.975717,Aachener Straße / Bunzlauer Straße / Hans-Willy-Mertens-Straße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3652,23478856.513919,56451904.131594,Aachener Straße / HST Weiden,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3653,23477722.897205,56452055.332238,Aachener Straße / Goethestraße / An der Alten Post,Stadt Köln,Lindenthal,nein,---,nein,ja
+3654,23474896.06412,56452180.361076,Aachener Straße / Schulstraße,Stadt Köln,Lindenthal,ja - taktil,---,nein,ja
+3655,23472819.715188,56452304.872141,Aachener Straße / Moltkestraße / Frechener Weg,Stadt Köln,Lindenthal,ja - taktil,---,nein,ja
+3656,23470343.752781,56452445.643126,Aachener Straße / Am Rapohl / Bodelschwinghstraße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3657,23468301.93509,56452582.758989,Aachener Straße / Friedhof-Weiden,Stadt Köln,Lindenthal,nein,---,nein,ja
+3103,23512181.351221,56456321.870909,Vitalisstraße / Stolberger Straße / Wendelinstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3108,23505045.836059,56460678.943681,Belvederestraße / DB-Überführung / Schule,Stadt Köln,Lindenthal,nein,---,nein,nein
+3125,23516459.202026,56460650.739483,Widdersdorfer Straße / Josef-Lammerting-Allee / Vitalisstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3157,23523897.420356,56426916.22167,Gleueler Straße / Decksteiner Straße / Wende Bus,Stadt Köln,Lindenthal,nein,---,nein,nein
+3105,23512798.166022,56452348.171054,Militärringstraße / Aachener Straße Nord,Stadt Köln,Lindenthal,nein,---,nein,ja
+3106,23512888.836592,56449387.535835,Militärringstraße / Aachener Straße Süd,Stadt Köln,Lindenthal,nein,---,nein,ja
+3186,23547161.939234,56422476.586824,Gottesweg / Rhöndorfer Straße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3190,23541994.942486,56449490.999126,Innere Kanalstraße / Hollarstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3191,23541797.958412,56444871.03819,Universitätsstraße / Dürener Straße,Stadt Köln,Lindenthal,ja - taktil,---,nein,nein
+3192,23542952.954227,56441975.211777,Universitätsstraße / Bachemer Straße / Innerer Gürtel,Stadt Köln,Lindenthal,ja - taktil,---,nein,nein
+3504,23548278.379869,56432309.487692,Luxemburger Straße / Greinstraße / Wende-Amts.-u. Landgericht,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3505,23547116.125783,56430599.647156,Luxemburger Straße / Universitätsstraße / Weißhausstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3506,23546318.933215,56429451.322548,Luxemburger Straße / Konradstraße / Rennebergstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3507,23545480.156059,56428264.663082,Luxemburger Straße / Arnulfstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3508,23544874.566572,56427398.728142,Luxemburger Straße / Lotharstraße / Leybergstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+3509,23544014.591244,56426182.910041,Luxemburger Straße / Wittekindstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3510,23543165.825266,56424996.654175,Luxemburger Straße / Sülzburgstraße / Gottesweg,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3511,23542007.540061,56423359.690508,Luxemburger Straße / Hardtstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3512,23541147.874269,56422126.8454,Luxemburger Straße / Breibergstraße / Manderscheider Straße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3513,23540530.670998,56421221.353405,Luxemburger Straße / Klettenberggürtel / Sülzgürtel,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3514,23539745.096645,56420112.574446,Luxemburger Straße / Ölbergstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3515,23539151.124312,56419286.187779,Luxemburger Straße / Neuenhöfer Allee / Schule,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3516,23538692.303103,56418584.386993,Luxemburger Straße / Nassestraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3517,23536976.015517,56416242.643721,Luxemburger Straße / Geisbergstraße / Klettenbergpark,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3518,23535687.193275,56414323.794025,Luxemburger Straße / Scherfginstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3520,23542691.21541,56424349.533062,Luxemburger Straße / Gottesweg,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+3619,23541839.046396,56448315.582713,Aachener Straße / Innere Kanalstraße / Universitätsstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3620,23540822.448168,56448316.923534,Aachener Straße / Haselbergstraße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3621,23539903,56448344.3,Aachener Straße / Piusstraße / Richard-Strauß-Straße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3622,23536171.103998,56448554.223319,Aachener Straße / Friedhof-Melaten / Brucknerstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3623,23533495.953928,56448765.14463,Aachener Straße / Oskar-Jäger-Straße / Klosterstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3624,23530565.417313,56449044.496003,Aachener Straße / Melatengürtel / Stadtwaldgürtel,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3625,23526960.671312,56449231.204443,Aachener Straße / Fürst-Pückler-Straße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3626,23524655.021766,56449375.057442,Aachener Straße / Maarweg / Kitschburger Straße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3627,23523447.047845,56449444.224849,Aachener Straße / Braunstraße / Hermann-Pflaume-Straße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3628,23520893.4,56449630.7,Aachener Straße / Peter-von-Fliessteden-Straße / Voigtelstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3629,23520062,56449693.4,Aachener Straße / Eschweilerstraße / HGK-Übergang,Stadt Köln,Lindenthal,nein,---,nein,ja
+3630,23517749.672607,56449846.171744,Aachener Straße / Eupener Straße / Raschdorffstraße,Stadt Köln,Lindenthal,ja - taktil,---,nein,ja
+3631,23516821.821212,56449913.947321,Aachener Straße / Meister-Johann-Straße / Herbesthaler Straße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3634,23511199.995981,56450377.864385,Aachener Straße / Alter Militärring / Auf dem Hügel,Stadt Köln,Lindenthal,nein,---,nein,ja
+3635,23508735,56450535,Aachener Straße / Lövenicher Weg / Wendelinstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3636,23507533.519424,56450573.090934,Aachener Straße / Oskar-Rehfeld-Weg / Stadion,Stadt Köln,Lindenthal,nein,---,nein,ja
+3637,23506063.127453,56450611.910253,Aachener Straße / Walter-Binder-Weg / Peter-Günther-Weg,Stadt Köln,Lindenthal,nein,---,nein,ja
+3638,23504035.54923,56450704.423153,Aachener Straße / Am Sportpark Müngersdorf / Marathonweg,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3134,23533466.042643,56440578.061185,Dürener Straße / Theresienstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3152,23538028.1,56439942.2,Bachemer Straße / Gleueler Straße / Schule,Stadt Köln,Lindenthal,nein,---,nein,nein
+3153,23537208.275487,56438802.753116,Gleueler Straße / Joseph-Stelzmann-Straße / Geibelstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3169,23546471.059062,56436732.800885,Zülpicher Straße / Meister-Ekkehart-Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3170,23543081.380215,56434236.019117,Zülpicher Straße / Weyertal,Stadt Köln,Lindenthal,ja - taktil,---,nein,ja
+3171,23539271.840134,56432339.685368,Zülpicher Straße / Joseph-Stelzmann-Straße / Gustavstraße,Stadt Köln,Lindenthal,ja - taktil,---,nein,nein
+3172,23537125.59974,56431236.232718,Zülpicher Straße / Sülzburgstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3173,23531611.762064,56429753.443158,Zülpicher Straße / Mommsenstraße / Hermeskeiler Straße,Stadt Köln,Lindenthal,ja - taktil,---,nein,nein
+3175,23530080.495713,56428270.73543,Hermeskeiler Straße / Neuenhöfer Allee,Stadt Köln,Lindenthal,nein,---,nein,nein
+3180,23544463.056224,56431352.993838,Berrenrather Straße / Weyertal / Arnulfstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3194,23545274.880192,56435443.610113,Universitätsstraße / Zülpicher Straße,Stadt Köln,Lindenthal,ja - taktil,---,nein,ja
+3195,23545089.379391,56436024.524781,Universitätsstr. / Kerpener Straße,Stadt Köln,Lindenthal,ja - taktil,---,nein,ja
+3196,23546025.026158,56433221.686734,Universitätsstraße / Berrenrather Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3801,23537062.3813,56421072.247175,Berrenrather Straße / Neuenhöfer Allee,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3802,23539549.298132,56422260.916442,Sülzgürtel / Wichterichstraße / Nonnewerthstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3803,23538525.40197,56423411.280558,Sülzgürtel / Berrenrather Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3804,23536764.04639,56425472.213084,Sülzgürtel / Münstereifeler Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3805,23535874.005354,56426543.087479,Sülzgürtel / Mommsenstraße / Hollerather Straße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3806,23535530.724625,56427697.78884,Sülzgürtel / Euskirchener Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3807,23535008,56429298.3,Sülzgürtel / Curtiusstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3808,23534698.143371,56430353.353104,Sülzgürtel / Lindenthalgürtel / Zülpicher Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3809,23533972.769239,56431757.751891,Lindenthalgürtel / Rurstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3810,23533509.957147,56432778.228359,Lindenthalgürtel / Kerpener Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3811,23532413.344399,56434059.642964,Lindenthalgürtel / Gleueler Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3812,23532226.306418,56435143.94975,Lindenthalgürtel / Franzstraße,Stadt Köln,Lindenthal,nein,---,nein,ja
+3813,23531610.186903,56436429.833243,Lindenthalgürtel / Herderstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3814,23531320.731962,56436988.964524,Lindenthalgürtel / Bachemer Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3815,23530406.912405,56438754.264596,Stadtwaldgürtel / Dürener Straße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+3816,23529887.119483,56442579.882267,Stadtwaldgürtel / Wüllnerstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3817,23529876.847089,56444442.509044,Stadtwaldgürtel / Rautenstrauchstraße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+3818,23530025.296371,56446123.563873,Stadtwaldgürtel / Friedrich-Schmidt-Straße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3819,23530298.666731,56447923.615917,Stadtwaldgürtel / Clarenbachstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3821,23531038.46492,56450366.116845,Melatengürtel / Scheidtweilerstraße,Stadt Köln,Lindenthal,nein,---,nein,nein
+3870,23525307.759212,56437380.700156,Dürener Straße / Mommsenstraße / Kitschburger Straße,Stadt Köln,Lindenthal,nein,---,nein,ja
+4001,23520206.481074,56476283.570694,Venloer Straße / Akazienweg,Stadt Köln,Ehrenfeld,nein,---,nein,ja
+4002,23516841.162007,56478911.192403,Venloer Straße / Mathias-Brüggen-Straße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4003,23514975.417133,56480619.213834,Venloer Straße / Wolffsohnstraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+4004,23512318.827622,56482368.438315,Venloer Straße / Westendstraße / Kolkrabenweg,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+4005,23509792.288963,56483748.132579,Venloer Straße / Westfriedhof,Stadt Köln,Ehrenfeld,ja - taktil,---,nein,nein
+4006,23507079.840901,56485231.462129,Venloer Straße / Seeadlerweg / P+R-Ost,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+4007,23505817.5375,56485170.775842,Venloer Straße / P+R-West,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4008,23503963.398382,56485271.273767,Militärringstraße / Venloer Straße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4009,23495715.494814,56486735.797117,Freimersdorfer Weg / WDR,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4011,23511235.609871,56505927.053323,Militärringstraße / Mathias-Brüggen-Straße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4012,23519476.428295,56494484.199705,Hugo-Eckener-Straße / Mathias-Brüggen-Straße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4013,23526771.940676,56499393.562324,Butzweilerstraße / Butzweilerhofallee / AWB Ossendorf,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+4014,23535554.89185,56487970.780888,Butzweilerstraße / Franziska-Anneke-Straße,Stadt Köln,Ehrenfeld,ja - taktil,---,nein,nein
+4015,23537068.134601,56486232.09027,Butzweilerstraße / BAB57,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4016,23537952.694856,56485199.435414,Äußere Kanalstraße / Butzweilerstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4017,23534643.286499,56481382.601477,Äußere Kanalstraße / Ossendorfer Straße / Frohnhofstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4018,23501736.843596,56487162.112474,Venloer Straße / Freimersdorfer Weg / Andreas-Muhr-Staße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4019,23504448.516778,56487060.724642,Militärringstraße / Andreas-Muhr-Straße / KVB-Querung,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4026,23511746.889546,56470283.738902,Vogelsanger Straße / Vogelsanger Markt / Schule,Stadt Köln,Ehrenfeld,ja - taktil,---,nein,nein
+4027,23514721.884821,56470112.617515,Vogelsanger Straße / Falkenweg,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4029,23527553.205858,56494275.436426,Butzweilerstraße / Hugo-Eckener-Straße / Ikarosstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4100,23547974.112682,56477332.683911,Parkgürtel / Osterather Straße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4101,23546837.971926,56475650.823259,Parkgürtel / Methweg GEW,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4102,23544809.202401,56473869.207108,Parkgürtel / BAB57,Stadt Köln,Ehrenfeld,nein,---,nein,ja
+4103,23546484.682457,56468347.509891,Nußbaumerstraße / Herkulesstraße / Liebigstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4110,23545952.175305,56462737.570668,Subbelrather Straße / Myliusstraße / Schule,Stadt Köln,Ehrenfeld,nein,---,nein,ja
+4115,23536670.356635,56469109.201681,Subbelrather Straße / Landmannstraße / Platenstraße,Stadt Köln,Ehrenfeld,ja - taktil,---,nein,nein
+4117,23533960.712891,56470906.581766,Subbelrather Straße / Leyendeckerstraße / Takustraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4119,23531872.299969,56472306.438848,Subbelrather Straße / Alpener Straße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4120,23530204.681631,56473374.966639,Subbelrather Straße / Marienstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4121,23529246,56473914.3,Subbelrather Straße / Äußere Kanalstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4130,23542624.762318,56458919.449051,Venloer Straße / Franz-Geuer-Straße / Piusstraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+4131,23539094.01104,56461415.655801,Venloer Straße / Neptunstraße / Klarastraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+4132,23534328.665045,56466031.457972,Venloer Straße / Platenstraße / Bezirksrathaus,Stadt Köln,Ehrenfeld,ja - taktil,---,nein,nein
+4133,23532033.406529,56468397.349449,Venloer Straße / Leyendeckerstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4135,23527278.315462,56471052.49098,Venloer Straße / Äußere Kanalstraße / Helmholtzstraße,Stadt Köln,Ehrenfeld,nein,---,nein,ja
+4136,23525247.12215,56472284.915837,Venloer Straße / Wilhelm-Mauser-Straße / Rochusstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4138,23525782.505267,56468720.814619,Äußere Kanalstraße / Nonniweg / Silcherstraße,Stadt Köln,Ehrenfeld,ja - taktil,---,nein,nein
+4141,23539781.598163,56458050.521581,Vogelsanger Straße / Thebäerstraße / Mechternstraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4143,23529988.313239,56464764.172905,Vogelsanger Straße / Leyendeckerstraße / Helmholtzstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4144,23524182.499136,56466533.467021,Vogelsanger Straße / Äußere Kanalstraße / Maarweg,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4145,23523420.67084,56466746.592594,Vogelsanger Straße / Vitalisstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4146,23523467.966147,56464712.340563,Maarweg / Fuhrpark,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+4148,23521378,56459626,Widdersdorfer Straße / Mercedes Allee,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4151,23536582.522486,56455886.229167,Weinsbergstraße / Friedhof-israelisch / Geisselstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4152,23530252.380085,56458270.215143,Weinsbergstraße / Oskar-Jäger-Straße / Widdersdorfer Straße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4153,23523365.462672,56459242.938463,Maarweg / Widdersdorfer Straße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4154,23531255.953594,56453989.622948,Oskar-Jäger-Straße / Stolberger Straße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4159,23553827.286777,56467067.029787,Innere Kanalstraße / Hornstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4160,23552158.178568,56466549.590195,Innere Kanalstraße / Am Gleisdreieck,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4161,23549731.78718,56463922.602261,Innere Kanalstraße / Herkulesstraße Nord,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4162,23548696.387715,56462625.885196,Innere Kanalstraße / Herkulesstraße Süd,Stadt Köln,Ehrenfeld,nein,---,nein,ja
+4163,23547883.988468,56461473.1892,Innere Kanalstraße / Subbelrather Straße,Stadt Köln,Ehrenfeld,nein,---,nein,ja
+4165,23544734.203642,56457593.806084,Innere Kanalstraße / Venloer Straße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4839,23528813.919932,56490487.674713,Rochusstraße / Justitzvollzugsanstallt / Rektor-Klein-Straße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+4150,23540492.57094,56453243.510363,Weinsbergstraße / Piusstraße / Schule,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4164,23546187.507481,56459348.825864,Innere Kanalstraße / Fernmeldeturm,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4166,23543419.293415,56454985.607192,Innere Kanalstraße / Vogelsanger Straße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4167,23542565.585491,56451760.252418,Innere Kanalstraße / Weinsbergstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4125,23534317.050689,56462549.676129,Vogelsanger Straße / Grüner Weg,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4149,23532923.9,56457961.2,Weinsbergstraße / Baumarkt Bahr,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4822,23532153.283459,56451917.787685,Melatengürtel / Oskar-Jäger-Straße,Stadt Köln,Ehrenfeld,ja - taktil,---,nein,ja
+4823,23533714.684842,56455984.924168,Melatengürtel / Fröbelstraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4824,23533745.953281,56457859.8666,Melatengürtel / Weinsbergstraße,Stadt Köln,Ehrenfeld,ja - taktil,---,nein,nein
+4825,23535288.4,56461609.6,Melatengürtel / Vogelsanger Straße / Ehrenfeldgürtel,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4826,23536686.796295,56463513.91681,Ehrenfeldgürtel / Venloer Straße,Stadt Köln,Ehrenfeld,ja - taktil,---,nein,ja
+4827,23538109.247406,56465592.403734,Ehrenfeldgürtel / Hüttenstraße / Stammstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4828,23539299.35313,56467420.176596,Ehrenfeldgürtel / Subbelrather Straße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4829,23539845.174039,56468218.490217,Ehrenfeldgürtel / Fridolinstraße,Stadt Köln,Ehrenfeld,nein,---,nein,ja
+4831,23540567.061803,56469359.862866,Ehrenfeldgürtel / Försterstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4832,23540982.282388,56469973.368712,Ehrenfeldgürtel / Eichendorffstraße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4833,23542141.827972,56471640.275922,Ehrenfeldgürtel / Nußbaumerstraße,Stadt Köln,Ehrenfeld,ja - taktil,---,nein,nein
+4834,23541007.466009,56471870.566559,Nußbaumerstraße / Siemensstraße / Schule,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4836,23538184.388464,56472478.793355,Nußbaumerstraße / Iltisstraße / Gustav-Freytag-Straße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4837,23536912.402581,56475449.454317,Iltisstraße / Takuplatz / Tondernstraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+4838,23533831.097866,56480382.994708,Äußere Kanalstraße / Iltisstraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+4854,23544384.828674,56463811.007938,Subbelrather Straße / Gutenbergstraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4855,23543012.388444,56464854.500103,Subbelrather Straße / Lukasstraße / Körnerstraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4856,23542455.836191,56465341.450265,Subbelrather Straße / Liebigstraße / Glasstraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+5001,23565707.4,56537538.4,Emdener Straße / Am Ölhafen,Stadt Köln,Nippes,nein,---,nein,nein
+5002,23562113.5,56521210.3,Geestemünder Straße / Anbindung Industriestr-Ost,Stadt Köln,Nippes,nein,---,nein,nein
+5003,23559892.3,56521191.7,Geestemünder Straße  / Industriestraße,Stadt Köln,Nippes,nein,---,nein,nein
+5004,23565490.5,56530420.7,Emdener Straße / Ford Tor 8+24,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,nein
+5005,23565409.6,56526861.7,Emdener Straße / Ford Tor 6,Stadt Köln,Nippes,nein,---,nein,nein
+5006,23557726.4,56521252.9,Geestemünder Straße / Johann-Maria-Farina-Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5007,23565146.4,56521062.8,Emdener Straße / Geestemünder Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5009,23564782.1,56513592.9,Bremerhavener Straße / Emdener Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5011,23568545.2,56514100,Niehler Damm / Bremerhavener Straße / Sankt-Leonardus-Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5013,23569257.2,56506424.2,Sebastianstraße / Merkenicher Straße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,nein
+5014,23569097.3,56503995.2,Sebastianstraße / Feldgärtenstraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,nein
+5016,23552351.6,56515470,Neusser Straße / Militärringstraße / Bremerhavener Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5017,23550014.7,56521478.9,Neusser Landstraße / Geestemünder Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5018,23554057.8,56521369.3,Geestemünder Straße / Franz-Greiß-Straße,Stadt Köln,Nippes,nein,---,nein,ja
+5020,23534822.2,56518315.3,Longericher Straße / Rommerskircher Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5021,23529986.9,56515461.2,Longericher Hauptstraße / Auf der Bude / Schule,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,nein
+5022,23541203.3,56488875.6,Äußere Kanalstraße / Escher Straße / Robert-Perthel-Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5026,23548729.7,56484268.4,Schiefersburger Weg / Reutlinger Straße / Schule,Stadt Köln,Nippes,nein,---,nein,nein
+5027,23544005,56489313.9,Am Bilderstöckchen / Alzeyer Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5104,23558361.9,56491570.2,Merheimer Straße / Friedrich-Karl-Straße / Nibelungenstraße,Stadt Köln,Nippes,nein,---,nein,ja
+5105,23558184.2,56488925.7,Merheimer Straße / Bergstraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,nein
+5106,23558141.2,56486886.2,Mauenheimer Gürtel / Merheimer Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5107,23553936.9,56483405,Parkgürtel / Longericher Straße / Geldernstraße,Stadt Köln,Nippes,nein,---,nein,ja
+5108,23552358.119412,56482696.768572,Parkgürtel / Ravensburger Str.,Stadt Köln,Nippes,nein,---,nein,nein
+5109,23549128.2,56479183.9,Parkgürtel / Escher Straße / Kirche,Stadt Köln,Nippes,nein,---,nein,nein
+5110,23553032.2,56473445.4,Geldernstraße / Escher Straße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5111,23552640.2,56471877.4,Liebigstraße / Geldernstraße / Osterather Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5114,23559973.2,56477688.8,Kempener Straße / Siebachstraße / Gocher Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5117,23562204.2,56475121.4,Kempener Straße / Cranachstraße / Christinastraße,Stadt Köln,Nippes,nein,---,nein,nein
+5120,23564297.5,56470475.3,Innere Kanalstraße / Neusser Straße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5121,23563742.6,56472549.2,Neusser Straße / Lohsestraße,Stadt Köln,Nippes,nein,---,nein,nein
+5122,23563500.016483,56473719.800808,Neusser Straße / Kempener Straße / Auerstraße,Stadt Köln,Nippes,nein,---,nein,nein
+5123,23563514.1,56475050.1,Neusser Straße / Kuenstraße / Cranachstraße,Stadt Köln,Nippes,nein,---,nein,nein
+5124,23563294.1,56477020.3,Neusser Straße / Wilhelmstraße,Stadt Köln,Nippes,nein,---,nein,nein
+5126,23562869.5,56481091.1,Neusser Straße / Blücherstraße / Schillstraße,Stadt Köln,Nippes,nein,---,nein,nein
+5128,23560869.4,56490707.6,Neusser Straße / Friedrich-Karl-Straße,Stadt Köln,Nippes,nein,---,nein,ja
+5131,23566005.6,56473597.8,Niehler Straße / Auerstraße,Stadt Köln,Nippes,nein,---,nein,nein
+5132,23566188.4,56474891.2,Niehler Straße / Kuenstraße,Stadt Köln,Nippes,nein,---,nein,nein
+5133,23566468.4,56477519.4,Niehler Straße / Florastraße / Wilhelmstraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5134,23566690.7,56480594.3,Niehler Straße / Blücherstraße / Xantener Straße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5135,23566838.7,56482019.2,Niehler Str. / Xantener Str.,Stadt Köln,Nippes,ja - taktil,---,nein,nein
+5136,23567618.5,56489352.1,Niehler Straße / Friedrich-Karl-Straße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5137,23567871.5,56491903.4,Niehler Straße / Niehler Kirchweg / Weidenpescher Straße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5142,23571556.8,56489271.8,Friedrich-Karl-Straße / Duisburger Straße / Castroper Straße,Stadt Köln,Nippes,nein,---,nein,ja
+5144,23569952.8,56481333.1,Xantener Straße / Kretzerstraße / Schule,Stadt Köln,Nippes,nein,---,nein,nein
+5145,23578662.5,56477726.5,Stammheimer Straße / Riehler Gürtel / Pionierstraße,Stadt Köln,Nippes,nein,---,nein,ja
+5125,23563053.5,56479465.6,Neusser Straße / Florastraße / Einheitstraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,nein
+5130,23565738,56471102.1,Innere Kanalstraße / Niehler Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5201,23582491,56473638,Niederländer Ufer / An der Schanz / Colonia-Haus,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5202,23579508,56471112,Niederländer Ufer / Tiergartenstraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5203,23577911.4,56469769.1,Niederländer Ufer / Zoobrücke / P+R Zoo,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5204,23577119.2,56469038.9,Niederländer Ufer / Frohngasse,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5215,23573916.410616,56496821.58073,Amsterdamer Str. / Boltensternstr. / Südliche Umfahrt,Stadt Köln,Nippes,nein,---,nein,nein
+5216,23579021.8,56487339.9,Boltensternstraße / Pasteurstraße / SB-Warenhaus,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5217,23581119.1,56481932.2,Boltensternstraße / Stammheimer Straße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5218,23577854.8,56490060.1,Boltensternstraße / Friedrich-Karl-Straße / Am Niehler Hafen,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5219,23573536.3,56497807.7,Boltensternstraße / Amsterdamer Straße / Industriestraße,Stadt Köln,Nippes,nein,---,nein,ja
+5220,23580025,56485067.7,Boltensternstraße / Niehler Gürtel / Flemmingstraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5221,23575021.3,56471015.4,Frohngasse / Alter Stammheimer Weg / An der Flora,Stadt Köln,Nippes,nein,---,nein,ja
+5222,23575896.4,56470023.2,Riehler Straße / Frohngasse,Stadt Köln,Nippes,nein,---,nein,nein
+5237,23580576.1,56483831.5,Boltensternstraße / Barbarastraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5238,23581663.5,56480064.9,Boltensternstraße / Hittorfstraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5239,23581958.7,56478737.1,Boltensternstraße / Pionierstraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5240,23582940.3,56476303.6,Riehler Straße / Boltensternstraße / An der Schanz,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5127,23562392.3,56484658.8,Neusser Straße / Niehler Kirchweg,Stadt Köln,Nippes,nein,---,nein,nein
+5141,23565500,56489322.3,Friedrich-Karl-Straße / Niehler Kirchweg,Stadt Köln,Nippes,nein,---,nein,nein
+5700,23572739,56472986.5,Amsterdamer Straße / Wende-Flora,Stadt Köln,Nippes,nein,---,nein,nein
+5701,23573264.2,56476523.4,Amsterdamer Straße / Kinderkrankenhaus,Stadt Köln,Nippes,ja - taktil,---,nein,ja
+5702,23573773.2,56480055.9,Amsterdamer Straße / Xantener Straße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5703,23573890.3,56481702.1,Amsterdamer Straße / Riehler Gürtel,Stadt Köln,Nippes,nein,---,nein,nein
+5704,23573981.5,56482959.2,Amsterdamer Straße / Barbarastraße,Stadt Köln,Nippes,nein,---,nein,nein
+5705,23574119.2,56485605.3,Amsterdamer Straße / Niehler Gürtel / KVB-Haltestelle,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5706,23574225.8,56487855.4,Amsterdamer Straße / Wende / Neven DuMont,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5707,23574224,56489383.4,Amsterdamer Straße / Friedrich-Karl-Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5708,23573959.8,56493216.6,Amsterdamer Straße / Nesselrodestraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5811,23559955.9,56494567.2,Neusser Straße / Mollwitzstraße / Roßbachstraße,Stadt Köln,Nippes,nein,---,nein,nein
+5812,23559715.8,56496288.1,Neusser Straße / Derfflingerstraße,Stadt Köln,Nippes,nein,---,nein,nein
+5813,23559493.4,56498912.8,Neusser Straße / Florianschule-Weidenpesch,Stadt Köln,Nippes,nein,---,nein,nein
+5814,23559258.4,56500539.4,Neusser Straße / Scheibenstraße / Kapuzinerstraße,Stadt Köln,Nippes,nein,---,nein,nein
+5815,23557928.6,56504005.7,Neusser Straße / Simonskaul,Stadt Köln,Nippes,nein,---,nein,nein
+5816,23557027.1,56506193.8,Neusser Straße / Jesuitengasse,Stadt Köln,Nippes,nein,---,nein,nein
+5817,23556577.5,56507192.7,Neusser Straße / STRAB-Abzweig,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5818,23555734.1,56508597.9,Neusser Straße / Lachemer Weg,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5819,23554782.3,56510287.7,Neusser Straße / Wilhelm-Sollmann-Straße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5820,23552713.7,56509862.7,Wilhelm-Sollmann-Straße / Graseggerstraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5821,23549757.5,56511894.3,Wilhelm-Sollmann-Straße / Rüdellstraße / Rheindorfer Straße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5822,23544680.2,56512851.5,Wilhelm-Sollmann-Straße / Herforder Straße / Rambouxstraße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5823,23540972.6,56513461.8,Wilhelm-Sollmann-Straße / Meerfeldstraße / Johannes-Rings-Straße,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5824,23536124.8,56514821,Johannes-Rings-Straße / Longericher Straße / Hohlgasse,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+5112,23557916.5,56480308.1,Kempener Straße / Simon-Meister-Straße / Schule,Stadt Köln,Nippes,nein,---,nein,nein
+5113,23558925.8,56479047.3,Kempener Straße / Merheimer Straße,Stadt Köln,Nippes,nein,---,nein,nein
+5115,23560989.3,56476543.7,Kempener Straße / Wilhelmstraße,Stadt Köln,Nippes,nein,---,nein,nein
+5116,23561805.1,56475591.9,Kempener Straße / Steinbergerstraße / Auguststraße,Stadt Köln,Nippes,nein,---,nein,nein
+6001,23534730.665705,56548889.805674,Neusser Landstraße / Merianstraße,Stadt Köln,Chorweiler,ja - akustisch+taktil,---,nein,ja
+6002,23530405.217829,56546614.440378,Merianstraße / Willi-Suth-Allee,Stadt Köln,Chorweiler,ja - akustisch+taktil,---,nein,ja
+6003,23524709.995674,56547830.115285,Merianstraße / Weichselring / Athener Ring,Stadt Köln,Chorweiler,ja - taktil,---,nein,nein
+6004,23520718.044815,56547183.224569,Merianstraße / Elbeallee,Stadt Köln,Chorweiler,ja - taktil,---,nein,nein
+6005,23519593.68466,56546406.492899,Merianstraße / Mercatorstraße,Stadt Köln,Chorweiler,nein,---,nein,nein
+6007,23518809.9,56542272.7,Merianstraße / Fühlinger Weg,Stadt Köln,Chorweiler,ja - taktil,---,nein,nein
+6008,23520689.65597,56539068.058567,Merianstraße / Cosmasweg,Stadt Köln,Chorweiler,ja - akustisch+taktil,---,nein,ja
+6009,23517282.30257,56541374.290493,Fühlinger Weg / Weilerweg,Stadt Köln,Chorweiler,nein,---,nein,nein
+6016,23530016.397403,56545421.494523,Willi-Suth-Allee / Karl-Marx-Allee / Stockholmer Allee,Stadt Köln,Chorweiler,ja - taktil,---,nein,nein
+6017,23539620.459951,56552982.355833,Merianstraße / Robert-Bosch-Straße / Industriestraße,Stadt Köln,Chorweiler,ja - taktil,---,nein,ja
+6023,23513255.4,56566051.5,Blumenbergsweg / Mercatorstraße,Stadt Köln,Chorweiler,nein,---,nein,nein
+6025,23523869.587356,56531350.55448,Volkhovener Weg / Stallagsweg,Stadt Köln,Chorweiler,nein,---,nein,nein
+6026,23525089.472393,56527888.635733,Volkhovener Weg / Johannes-Albers-Straße / Schule,Stadt Köln,Chorweiler,nein,---,nein,nein
+6028,23553254.608546,56547244.52366,Edsel-Ford-Straße / Oranjehofstraße / Spessartstraße,Stadt Köln,Chorweiler,nein,---,nein,nein
+6030,23552853.4,56544513.3,Oranjehofstraße / Parkplatz Ost,Stadt Köln,Chorweiler,ja - akustisch+taktil,---,nein,ja
+6031,23562810.867481,56543097.800973,Emdener Straße / Wacker Chemie,Stadt Köln,Chorweiler,ja - akustisch+taktil,---,nein,ja
+6032,23565740.117174,56539791.448197,Emdener Straße / Ivenshofweg,Stadt Köln,Chorweiler,nein,---,nein,ja
+6033,23550989.477522,56562356.428307,Alte Römerstraße / Feldkasseler Weg,Stadt Köln,Chorweiler,nein,---,nein,nein
+6034,23530276.90106,56558103.144812,Neusser Landstraße / Fühlingen Kirche,Stadt Köln,Chorweiler,nein,---,nein,nein
+6035,23529816.743609,56559973.101106,Neusser Landstraße / Roggendorfer Weg,Stadt Köln,Chorweiler,ja - akustisch+taktil,---,nein,nein
+6036,23504479.520304,56595022.182493,Neusser Landstraße / Alte Neusser Landstraße,Stadt Köln,Chorweiler,ja - akustisch+taktil,---,nein,nein
+6037,23500888.883591,56597520.129533,Neusser Landstraße / Dornstraße,Stadt Köln,Chorweiler,nein,---,nein,nein
+6041,23509218.720485,56522819.299631,Donatusstraße / Am Pescher Holz,Stadt Köln,Chorweiler,nein,---,nein,nein
+6042,23510641.109392,56521282.390609,Donatusstraße / Robert-Koch-Straße / Kapellenweg,Stadt Köln,Chorweiler,nein,---,nein,nein
+6043,23512654.573123,56519148.032954,Longericher Straße / Donatusstraße / Elisabethstraße,Stadt Köln,Chorweiler,ja - akustisch+taktil,---,nein,ja
+6044,23510409.2,56517823.5,Escher Straße / Johannesstraße / Longericher Straße / Mengenicher Straße,Stadt Köln,Chorweiler,nein,---,nein,nein
+6048,23520960.248749,56519620.299067,Pescher Weg / Marienberger Weg,Stadt Köln,Chorweiler,nein,---,nein,nein
+6045,23507333.6,56515206,Mengenicher Straße / Schulstraße / Heinrich-Heine-Ring,Stadt Köln,Chorweiler,ja - akustisch+taktil,---,nein,nein
+7002,23640940.09125,56398775.092856,Humboldtstraße / Konrad-Adenauer-Straße / Kurt-Schumacher-Straße,Stadt Köln,Porz,nein,---,nein,nein
+7003,23642034.73223,56395428.625187,Humboldtstraße / Bergerstraße,Stadt Köln,Porz,nein,---,nein,nein
+7004,23642874.364113,56391962.454791,Humboldtstraße / Bonner Straße / Schule,Stadt Köln,Porz,nein,---,nein,nein
+7005,23643149.165181,56389369.757084,Humboldtstraße / Königsberger Straße / Siemensstraße / Schule,Stadt Köln,Porz,nein,---,nein,nein
+7006,23643171.766275,56385766.713215,Humboldtstraße / Voltastraße / Schule,Stadt Köln,Porz,nein,---,nein,nein
+7007,23643011.099893,56384743.638724,Kaiserstraße / Humboldtstraße / Schule,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7009,23635608.389447,56386285.374373,Bahnhofstraße / Friedrichstraße / Schillerstraße,Stadt Köln,Porz,nein,---,nein,nein
+7010,23655062.935585,56363202.329752,Nachtigallenstraße / Sankt-Ägidius-Straße / Schule,Stadt Köln,Porz,nein,---,nein,ja
+7013,23643827.014695,56384139.126389,Kaiserstraße / Brucknerstraße / Schule,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7014,23644778.444922,56383742.230033,Kaiserstraße / Dorotheenstraße / Schule,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7015,23654532.300009,56383893.958242,Waldstraße / Mühlenweg,Stadt Köln,Porz,nein,---,nein,nein
+7016,23667774.034457,56382025.780241,Grengeler Mauspfad / Waldstraße,Stadt Köln,Porz,nein,---,nein,nein
+7017,23624188.696269,56367508.175191,Schmittgasse / Houdainer Straße / Schule,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7018,23611995.092009,56407687.927722,Kölner Straße / Berliner Straße / Helenenstraße,Stadt Köln,Porz,nein,---,nein,ja
+7019,23632315.369335,56387218.749228,Hauptstraße / Bahnhofstraße,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,nein
+7020,23632407.459726,56389016.077498,Hauptstraße / Karlstraße / Bezirksrathaus,Stadt Köln,Porz,nein,---,nein,ja
+7021,23632263.194033,56385960.119748,Hauptstraße / Ernst-Mühlendyck-Straße / Bennauerstraße,Stadt Köln,Porz,nein,---,nein,ja
+7023,23646350.29277,56397004.157769,Bergerstraße / Bochumer Straße / Neue Eiler Straße,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7024,23655871.509841,56357838.357726,Heidestraße / Sankt-Ägidius-Straße / Wilhelm-Ruppert-Straße,Stadt Köln,Porz,nein,---,nein,nein
+7025,23658527.227855,56358359.778235,Heidestraße / Albin-Köbis-Straße / Max-Reichpietsch-Straße,Stadt Köln,Porz,nein,---,nein,ja
+7026,23662835.891358,56358511.835142,Heidestraße / Guntherstraße / Feuerwache,Stadt Köln,Porz,nein,---,nein,nein
+7027,23664469.82432,56358585.502059,Heidestraße / Sportplatzstraße,Stadt Köln,Porz,nein,---,nein,nein
+7028,23666063.392912,56358650.803673,Heidestraße / Magazinstraße,Stadt Köln,Porz,nein,---,nein,nein
+7029,23632245.811087,56391414.075415,Hauptstraße / Bergerstraße / Rathausstraße,Stadt Köln,Porz,nein,---,nein,nein
+7030,23631079.59594,56392533.137666,Hauptstraße / Steinstraße,Stadt Köln,Porz,nein,---,nein,nein
+7031,23625973.974872,56399334.70803,Kölner Straße / Urbacher Weg / Im Rheinfeld,Stadt Köln,Porz,nein,---,nein,nein
+7032,23623739,56401203,Kölner Straße / Erkerstraße,Stadt Köln,Porz,nein,---,nein,nein
+7033,23620404.533556,56402382.907483,Kölner Straße / Gremberghovener Straße / Hohe Straße,Stadt Köln,Porz,nein,---,nein,ja
+7034,23618219.951062,56403065.112251,Kölner Straße / Kirche,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7035,23615542.094726,56405101.186404,Kölner Straße / Gilgaustraße,Stadt Köln,Porz,nein,---,nein,ja
+7036,23609661.629964,56409113.64382,Kölner Straße / Stollwerckstraße / Andre-Citroen-Straße,Stadt Köln,Porz,nein,---,nein,ja
+7038,23661772.204713,56377857.253211,Akazienweg / Friedensstraße,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,nein
+7044,23649026.269977,56400557.483317,Frankfurter Straße / Hirschgraben,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7045,23648246.326547,56397617.456997,Frankfurter Straße / Bergerstraße,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7046,23651016.656808,56384026.899383,Frankfurter Straße / Kaiserstraße / Waldstraße,Stadt Köln,Porz,nein,---,nein,ja
+7047,23650855.264907,56381041.709586,Frankfurter Straße / Zündorfer Straße,Stadt Köln,Porz,nein,---,nein,nein
+7050,23653024.660808,56357119.584488,Frankfurter Straße / Heidestraße / Sankt-Sebastianus-Straße,Stadt Köln,Porz,nein,---,nein,nein
+7057,23648502.752113,56395286.666053,Frankfurter Straße / Bochumer Straße / Mozartstraße,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7063,23669144.028413,56349292.276781,Linder Mauspfad / Viehtrift,Stadt Köln,Porz,nein,---,nein,nein
+7064,23637130.136917,56401562.598909,Theodor-Heuss-Straße / Stresemannstraße,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,nein
+7069,23648198.567484,56383622.178861,Kaiserstraße / Marienburger Straße / Unter den Erlen,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7073,23633819,56391381,Josefstraße / Schule,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7074,23623481.920505,56369567.124263,Hauptstraße / Burgweg / Keimergasse,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,nein
+7077,23633464.411278,56392592.252971,Bergerstraße / Josefstraße,Stadt Köln,Porz,nein,---,nein,nein
+7078,23636698,56389147,Friedrichstraße / Bundesbahnbrücke,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7079,23627022.289953,56367062.78903,Wahner Straße / Gartenweg,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,nein
+7083,23662955.072251,56363881.099775,Nachtigallenstraße / Bieselweg,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7089,23668895.565234,56355463.918026,Linder Mauspfad / Flughafenstraße,Stadt Köln,Porz,nein,---,nein,ja
+7090,23670713.377621,56344403.726547,Linder Mauspfad / Ernst-Mach-Straße,Stadt Köln,Porz,nein,---,nein,nein
+7092,23627897,56375574,Hauptstraße / Rosenhügel / An der Groov,Stadt Köln,Porz,nein,---,nein,nein
+7184,23586018.183613,56426875.706485,Siegburger Straße / Am Altenberger Kreuz / Krückelstraße,Stadt Köln,Porz,nein,---,nein,nein
+7185,23587287.733627,56424852.839273,Siegburger Straße / Jakob-Kneip-Straße,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,nein
+7186,23589574,56422793,Siegburger Straße / Auf dem Sandberg,Stadt Köln,Porz,ja - taktil,---,nein,nein
+7187,23588408.804734,56419228.782706,Poller Hauptstraße / Schulpfad / Schule,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,nein
+7189,23584723,56428281,Siegburger Straße / Raiffeisenstraße,Stadt Köln,Porz,ja - taktil,---,nein,nein
+7707,23629604.03106,56425853.006306,Frankfurter Straße / Alter Deutzer Postweg,Stadt Köln,Porz,nein,---,nein,ja
+7708,23633106.565936,56418976.504984,Frankfurter Straße / Hansestraße / Neuenhofstraße,Stadt Köln,Porz,nein,---,nein,ja
+7709,23635345.152006,56414431.795859,Frankfurter Straße / BAB559 Nord / Rather Straße,Stadt Köln,Porz,nein,---,nein,ja
+7710,23636464.518587,56412234.987292,Frankfurter Straße / BAB559 Süd,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
+7711,23638025.147783,56410751.666971,Frankfurter Straße / Steinstraße / Maarhäuser Weg,Stadt Köln,Porz,nein,---,nein,ja
+7712,23645412.890526,56403946.345948,Frankfurter Straße / Theodor-Heuss-Straße,Stadt Köln,Porz,nein,---,nein,ja
+7742,23640485.496428,56408510.32761,Frankfurter Straße / Ferdinand-Porsche-Straße,Stadt Köln,Porz,nein,---,nein,ja
+7999,23658718.327273,56402806.854763,Hirschgraben / Pferdeüberweg / privat,privat,Porz,nein,---,nein,nein
+8840,23626162.076956,56432767.092972,Frankfurter Straße / Saarbrücker Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8848,23626491.10623,56432074.298984,Frankfurter Straße / Hardtgenbuscher Kirchweg / Feuerwache,Stadt Köln,Kalk,nein,---,nein,nein
+8857,23606808,56438090,Homarstraße / Kürtenstraße,Stadt Köln,Kalk,nein,---,nein,nein
+8876,23638272.717281,56441582.88588,Neubrücker Ring / Jugendheim,Stadt Köln,Kalk,nein,---,nein,nein
+8180,23594232,56435110,Rolshover Straße / Sauerlandstraße / GEW,Stadt Köln,Kalk,nein,---,nein,nein
+8181,23594147,56433535,Östliche Zubringerstraße / Rolshover Straße,Stadt Köln,Kalk,nein,---,nein,nein
+7183,23593602,56431184,Rolshover Straße / Max-Glomsda-Straße / Taubenholzweg,Stadt Köln,Porz,nein,---,nein,nein
+8188,23589487.930196,56435942.249724,Östliche Zubringerstraße / Am Grauen Stein,Stadt Köln,Kalk,nein,---,nein,nein
+8802,23590670.172021,56447489.317635,Kalker Hauptstraße / Walter-Pauli-Ring / Deutz-Kalker Straße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8804,23593706.304421,56447840.06626,Kalker Hauptstraße / Vietorstraße / Trimbornstraße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8805,23595007.291898,56447992.252181,Kalker Hauptstraße / Rolshover Straße / Kalk-Mülheimer Straße,Stadt Köln,Kalk,ja - taktil,---,nein,ja
+8806,23595931.821968,56448089.713081,Kalker Hauptstraße / Kaufhof,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8807,23597030.239291,56448280.159328,Kalker Hauptstraße / Sieversstraße,Stadt Köln,Kalk,nein,---,nein,ja
+8808,23598393.34406,56448581.909219,Kalker Hauptstraße / Neuerburgstraße,Stadt Köln,Kalk,nein,---,nein,ja
+8809,23598963.974259,56448711.782161,Kalker Hauptstraße / Breuerstraße,Stadt Köln,Kalk,nein,---,nein,ja
+8810,23600774.463721,56449188.443915,Kalker Hauptstraße / Kapellenstraße,Stadt Köln,Kalk,ja - taktil,---,nein,ja
+8812,23602615.942665,56449639.828872,Kalker Hauptstraße / Eythstraße,Stadt Köln,Kalk,ja - taktil,---,nein,nein
+8813,23603543.714861,56449866.235406,Kalker Hauptstraße / Dieselstraße,Stadt Köln,Kalk,nein,---,nein,nein
+8814,23604745.478618,56450137.525966,Kalker Hauptstraße / Wippermannstraße,Stadt Köln,Kalk,nein,---,nein,nein
+8815,23607996.855348,56450442.47897,Olpener Straße / Germaniastraße / Oranienstraße,Stadt Köln,Kalk,nein,---,nein,ja
+8816,23609602.769552,56450490.195416,Olpener Straße / Bochumer Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8817,23610293.672339,56450502.103572,Olpener Straße / Fuldaer Straße / Regensburger Straße,Stadt Köln,Kalk,ja - taktil,---,nein,nein
+8818,23612947.258468,56450354.091968,Olpener Straße / Burgstraße / Höhenberger Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8819,23614858.470175,56450306.333753,Olpener Straße / Marburger Straße / Adalbertstraße,Stadt Köln,Kalk,nein,---,nein,nein
+8820,23616759.318526,56450299.021463,Olpener Straße / Frankfurter Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8821,23620315.378422,56450395.453686,Olpener Straße / Nohlenweg,Stadt Köln,Kalk,nein,---,nein,nein
+8822,23622239,56450800,Olpener Straße / Iserlohner Straße / Fredeburger Straße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8823,23625070.774282,56451441.677926,Olpener Straße / Hohensyburgstraße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,nein
+8825,23629696.916688,56452754.312635,Olpener Straße / Ostmerheimer Straße / Kieskauler Weg,Stadt Köln,Kalk,ja - taktil,---,nein,nein
+8826,23635647.106068,56454393.281965,Olpener Straße / Madausstraße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8827,23637809.63008,56454915.635967,Olpener Straße / Hans-Schulten-Straße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8828,23645605.252687,56456170.301642,Olpener Straße / Im Brücker Bruch,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8829,23648511.605815,56454809.286961,Olpener Straße / Flehbachstraße / Pohlstadtsweg,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8830,23650552.252071,56455287.567465,Olpener Straße / Hovenstraße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8831,23651814.096718,56455806.547837,Olpener Straße / Brücker Mauspfad,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8832,23654904.55442,56456732.387578,Olpener Straße / Overather Straße / Hoffnungsthaler Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8833,23652407.763317,56454314.525894,Brücker Mauspfad / Hovenstraße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,nein
+8834,23614541.338862,56453061.901703,Frankfurter Straße / Höhenberger Straße / Höhenberger Ring,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8835,23615395,56452013,Frankfurter Straße / Merheimer Heideweg,Stadt Köln,Kalk,nein,---,nein,nein
+8836,23618181.926999,56448424.030874,Frankfurter Straße / Nohlenweg / Vingster Ring,Stadt Köln,Kalk,nein,---,nein,nein
+8837,23621026.207227,56442781.956267,Frankfurter Straße / Buchheimer Weg / Gernsheimer Straße,Stadt Köln,Kalk,ja - taktil,---,nein,nein
+8838,23622370.225536,56440155.719521,Frankfurter Straße / Zehnthofstraße,Stadt Köln,Kalk,ja - taktil,---,nein,nein
+8839,23623295.794745,56438286.95767,Frankfurter Straße / Rösrather Straße / Ostheimer Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8841,23627691.539795,56438388.268745,Rösrather Straße / Servatiusstraße / Hardtgenbuscher Kirchweg,Stadt Köln,Kalk,nein,---,nein,nein
+8842,23633794.819921,56436953.227404,Rösrather Straße / Hasencleverstraße / BAB3,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8843,23636772.810398,56435827.462066,Rösrather Straße / Neubrücker Ring,Stadt Köln,Kalk,nein,---,nein,nein
+8844,23651917.933928,56428577.358634,Rösrather Straße / Eiler Straße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,nein
+8845,23657727.722842,56428956.352935,Rösrather Straße / Gröppersgasse / Röttgensweg,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,nein
+8846,23663132.247863,56426580.224011,Rösrather Straße / Rather Mauspfad / Heumarer Mauspfad,Stadt Köln,Kalk,nein,---,nein,nein
+8847,23661280.865416,56433336.425983,Rather Mauspfad / Stachelsweg / Baldurstraße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,nein
+8849,23655131.4358,56433536.595344,Lützerathstraße / Hilde-Ippolito-Weg,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8850,23616048.55154,56440798.179126,Ostheimer Straße / Vingster Ring,Stadt Köln,Kalk,nein,---,nein,nein
+8851,23613605.146823,56441168.765357,Ostheimer Straße / Nobelstraße,Stadt Köln,Kalk,nein,---,nein,nein
+8852,23611329.8758,56442105.859262,Ostheimer Straße / Heßhofstraße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,nein
+8853,23609965.528782,56442658.677698,Ostheimer Straße / Burgstraße / Kuthstraße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,nein
+8854,23607549.315098,56443009.14901,Ostheimer Straße / Würzburger Straße / Homarstraße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,nein
+8859,23601447.5786,56434252.918717,Gremberger Straße / Poll-Vingster Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8860,23596579.1,56437106.9,Gremberger Straße / Lüderichstraße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8861,23594451.504459,56438389.936869,Gremberger Straße / Rolshover Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8862,23594734.863875,56439919.356771,Rolshover Straße / Odenwaldstraße,Stadt Köln,Kalk,nein,---,nein,nein
+8863,23595634.357253,56442844.580624,Rolshover Straße / Wetzlarer Straße / Gottfried-Hagen-Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8864,23592318.254714,56439547.393321,Gremberger Straße / Theoderichstraße,Stadt Köln,Kalk,nein,---,nein,nein
+8865,23591779.206411,56439849.49871,Gremberger Straße / Taunusstraße / Pfarrer-Moll-Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8866,23590236.610916,56440792.807331,Gremberger Straße / An der Pulvermühle,Stadt Köln,Kalk,ja - taktil,---,nein,nein
+8867,23591201.389381,56438854.379208,Am Grauen Stein / Westerwaldstraße,Stadt Köln,Kalk,nein,---,nein,nein
+8874,23639633.902358,56452781.170824,Hans-Schulten-Straße / Wiehler Straße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8877,23595354.69848,56445316.47555,Rolshover Straße / Dillenburger Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8879,23651706.099609,56424132.36709,Eiler Straße / Forststraße,Stadt Köln,Kalk,nein,---,nein,nein
+8883,23589118.8,56449617.7,Gummersbacher Straße / B&B Hotel,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,ja
+8884,23590268.215885,56449808.097939,Walter-Pauli-Ring / Straße des 17. Juni / Gummersbacher Straße / Geschwister-Katz-Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8885,23589816.896695,56451872.729561,Straße des 17. Juni / Corintostraße / Erna-Scheffler-Straße,Stadt Köln,Kalk,nein,---,nein,ja
+8947,23609318.75873,56459469.213707,Frankfurter Straße / B55a / Gothaer Platz,Stadt Köln,Kalk,nein,---,nein,nein
+8948,23611030,56457340,Frankfurter Straße / Suhler Weg,Stadt Köln,Kalk,nein,---,nein,nein
+8949,23612100,56456006,Frankfurter Straße / Fuldaer Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8958,23595954.761541,56454407.670661,Kalk-Mülheimer Straße / Wipperfürther Straße,Stadt Köln,Kalk,nein,---,nein,nein
+8959,23596006.515061,56451523.789846,Kalk-Mülheimer Straße / Höfestraße / Peter-Stühlen-Straße,Stadt Köln,Kalk,nein,---,nein,nein
+9158,23596225.151325,56480424.70273,Mülheimer Freiheit / Krahnenstraße / Schule,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9160,23590715.037325,56516558.265136,Roggendorf Straße / Alfred-Werner-Straße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,nein
+9161,23583300.698509,56515606.44331,Edelhofstraße / Am Feldrain / Schule,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9925,23648861.252959,56485918.381442,Dellbrücker Hauptstraße / Friedhof-Dellbrück / Schule,Stadt Köln,Mülheim,nein,---,nein,ja
+9115,23591212.566649,56461334.820581,Pfälzischer Ring / Karlsruher Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9116,23595123.343568,56467146.339108,Pfälzischer Ring / Grünstraße / Bergischer Ring,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9117,23595810.171531,56468582.285121,Bergischer Ring / Rendsburger Platz,Stadt Köln,Mülheim,ja - taktil,---,nein,ja
+9118,23596107.712661,56469500.747389,Bergischer Ring / Schleiermacherstraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9119,23597324,56472584,Bergischer Ring / Danzierstraße / Papageienstraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9121,23586930.554172,56462579.755779,Deutz-Mülheimer Straße / Adam-Stegerwald-Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9124,23589867.103539,56467613.432564,Deutz-Mülheimer Straße / Auenweg,Stadt Köln,Mülheim,nein,---,nein,nein
+9125,23591265.366712,56470008.037768,Deutz-Mülheimer Straße / Danzierstraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9126,23592493.683491,56469948.035766,Danzierstraße / Windmühlenstraße / Karl-Theodor-Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9127,23595090.197852,56471519.384512,Danzierstraße / Schleiermacherstraße / Schule,Stadt Köln,Mülheim,nein,---,nein,nein
+9128,23598313.2,56474764.3,Wiener Platz / Mülheimer Brücke,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9129,23599404.702006,56474539.723962,Wiener Platz / Frankfurter Straße / Eulenbergstraße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9130,23599386.706741,56477022.98251,Bergisch Gladbacher Straße / Clevischer Ring,Stadt Köln,Mülheim,nein,---,nein,nein
+9131,23599747.5,56477897.8,Clevischer Ring / Carl-Brisch-Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9132,23600200.364904,56480320.906069,Clevischer Ring / Keupstraße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9133,23600533.420893,56483144.089778,Clevischer Ring / Berliner Straße / Dünnwalder Straße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9134,23600113,56487803,Clevischer Ring / Von-Sparr-Straße / Von-Lohe-Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9136,23599112.330094,56491077.789981,Clevischer Ring / Mülheimer Zubringer,Stadt Köln,Mülheim,nein,---,nein,ja
+9137,23597860.74088,56494645.916177,Düsseldorfer Straße / Manforter Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9140,23597748.041685,56481210.227134,Mülheimer Freiheit / Düsseldorfer Straße / Dünnwalder Straße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9143,23602075.797293,56479098.853785,Keupstraße / Schanzenstraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9196,23600069.932829,56476624.941862,Bergisch-Gladbacher Straße / Genovevastraße / Schule,Stadt Köln,Mülheim,nein,---,nein,nein
+9981,23603848.044363,56484830.261076,Markgrafenstraße / Von-Sparr-Straße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9982,23600356.214207,56481691.407247,Clevischer Ring / Markgrafenstraße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,nein
+9924,23644252.135068,56495321.48954,Diepeschrather Straße / Anemonenweg,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,nein
+9144,23610361.6,56493225.4,Berliner Straße / Cottbuser Straße / Circus-Roncalli-Weg,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9145,23611577.697927,56494586.696723,Berliner Straße / Im Weidenbruch,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,nein
+9146,23613372.533022,56496644.910576,Berliner Straße / Fixheider Weg,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9147,23615401.7,56498902.3,Berliner Straße / Posadowskystraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9148,23617261.683527,56504921.660849,Berliner Straße / Am Emberg,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9149,23622485.1,56512693.8,Berliner Straße / Leuchterstraße / Zeisbuschweg,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9150,23623538.070119,56516042.925766,Berliner Straße / Prämonstratenserstraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9151,23625829.090355,56518491.141224,Berliner Straße / Odenthaler Straße / Kunstfelder Straße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9152,23625105.863819,56498715.675642,Im Weidenbruch / Birkenweg / Schule,Stadt Köln,Mülheim,nein,---,nein,nein
+9153,23621619.518457,56496915.467868,Im Weidenbruch / Im Weidenkamp,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,nein
+9154,23618963.897263,56495759.838099,Im Weidenbruch / Honschaftsstraße / Schule,Stadt Köln,Mülheim,ja - taktil,---,nein,ja
+9155,23618636.03225,56489918.64535,Honschaftsstraße / Sigwinstraße / Am Springborn,Stadt Köln,Mülheim,nein,---,nein,ja
+9156,23618378.061781,56484343.768864,Honschaftsstraße / Piccoloministraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9901,23602580,56475432,Bergisch Gladbacher Straße / Genovevabad / Schule,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9902,23604555.59451,56475860.981966,Bergisch Gladbacher Straße / Keupstraße / Montanusstraße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9903,23607883.697183,56476846.185334,Bergisch Gladbacher Straße / Carlswerkstraße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9904,23608715.036856,56477112.525723,Bergisch Gladbacher Straße / Ackerstraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9905,23610251.695631,56477548.273762,Bergisch Gladbacher Straße / Feuerwache / Wichheimer Straße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9906,23614277,56478710,Bergisch Gladbacher Straße / Gronauer Straße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9907,23615114.202903,56478963.304429,Bergisch Gladbacher Straße / Herler Ring,Stadt Köln,Mülheim,nein,---,nein,nein
+9908,23616414.053449,56479333.644245,Bergisch Gladbacher Straße / BAB3 West,Stadt Köln,Mülheim,nein,---,nein,nein
+9909,23618722.024342,56480036.168426,Bergisch Gladbacher Straße / BAB3 Ost,Stadt Köln,Mülheim,nein,---,nein,nein
+9910,23619560.172197,56480273.210966,Bergisch Gladbacher Straße / Honschaftsstraße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9911,23621830.103839,56480926.250488,Bergisch Gladbacher Straße / Vischeringstraße / Ringenstraße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9912,23622860.652527,56481219.497934,Bergisch Gladbacher Straße / Johann-Bensberg-Straße / Buschfeldstraße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9913,23627135.158937,56482496.349475,Bergisch Gladbacher Straße / Maria-Himmelfahrt-Straße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9914,23630120.224026,56484051.826598,Bergisch Gladbacher Straße / Rodfeldstraße / Rodstraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9915,23632881.371192,56485514.354156,Bergisch Gladbacher Straße / Schwabstraße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9916,23636308.336189,56487356.011121,Bergisch Gladbacher Straße / Wasserwerkstraße / Drosselbartstraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9917,23637609.444591,56488052.483291,Bergisch Gladbacher Straße / Heidestraße / Hagedornstraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9918,23639580.983122,56489093.878959,Bergisch Gladbacher Straße / Dellbrücker Mauspfad / Kaserne,Stadt Köln,Mülheim,nein,---,nein,nein
+9919,23642780.604874,56490807.697921,Bergisch Gladbacher Straße / Grafenmühlenweg / Urnenstraße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9920,23645493.506058,56492265.165573,Bergisch Gladbacher Straße / Dellbrücker Hauptstraße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9921,23648571.464834,56493890.872528,Bergisch Gladbacher Straße / Biesfelder Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9922,23651220.515223,56495303.903312,Bergisch Gladbacher Straße / Von-Quadt-Straße / Otto-Kayser-Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9923,23657654.964094,56495812.351664,Bergisch Gladbacher Straße / Thielenbrucher Allee,Stadt Köln,Mülheim,nein,---,nein,nein
+9927,23635987.054819,56480840.20152,Neufelder Straße / Krankenhaus Holweide,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9928,23629370.513714,56485741.343574,Piccoloministraße / Ernststraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9929,23623399.134568,56485057.901226,Piccoloministraße / Buschfeldstraße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9930,23625756.57396,56476651.927475,Burgwiesenstraße / Isenburger Kirchweg,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9931,23641614.548231,56490208.792028,Bergisch Gladbacher Straße / Zufahrt Zollkriminalamt,Stadt Köln,Mülheim,nein,---,nein,nein
+9932,23625917.653183,56471194.094902,Schlagbaumsweg / An der Wasserburg,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,nein
+9933,23614423.900712,56473779.243325,Herler Ring / Wuppertaler Straße / Wichheimer Straße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9934,23615922.536205,56468314.964164,Buchheimer Ring / Schlagbaumsweg,Stadt Köln,Mülheim,nein,---,nein,nein
+9935,23614299.3,56462446.4,Buchheimer Ring / B55a,Stadt Köln,Mülheim,nein,---,nein,nein
+9936,23600530.222947,56473036.011807,Frankfurter Straße / Merkerhofstraße / Rhodiusstraße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9939,23602386.727946,56470857.150541,Frankfurter Straße / Graf-Adolf-Straße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9940,23603418.540568,56469632.425822,Frankfurter Straße / Montanusstraße / Vincenzstraße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9941,23604584.085247,56468276.181847,Frankfurter Straße / Ackerstraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9942,23605080.366966,56467685.632372,Frankfurter Straße / Alte Wipperfürther Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9943,23604952.707677,56466269.959663,Frankfurter Straße / Arnsberger Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9944,23604976.92537,56464898.13567,Frankfurter Straße / Heidelberger Straße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9945,23606235.282185,56463289.966631,Frankfurter Straße / Germaniastraße / Modemannstraße,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9946,23608395,56460615,Frankfurter Straße / B55a Nord,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+9950,23598785.494891,56462767.677173,Heidelberger Straße / Waldecker Straße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9953,23596089.057518,56461887.815726,Heidelberger Straße / Kalk-Mülheimer Straße / Karlsruher Straße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+8954,23599601.531119,56457740.396488,Waldecker Straße / Solinger Straße / B55a / Buchforststraße,Stadt Köln,Kalk,nein,---,nein,nein
+9961,23600461.717452,56469533.648228,Graf-Adolf-Straße / Sonderburger Straße / Schule,Stadt Köln,Mülheim,nein,---,nein,nein
+9962,23614928.87767,56470206.532834,Buchheimer Ring / Schützengildeweg,Stadt Köln,Mülheim,nein,---,nein,nein
+9964,23606900.188776,56468022.809816,Alte Wipperfürther Straße / Schule,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,nein
+9965,23631766.888522,56483208.322226,Schnellweider Straße / Musäusstraße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+9966,23626964.379613,56471712.823933,Schlagbaumsweg / Colonia Allee / Isenburger Kirchweg / Ostmerheimer Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9967,23620400.276952,56480509.173007,Bergisch Gladbacher Straße / Steyler Straße,Stadt Köln,Mülheim,nein,---,nein,nein
+9968,23647626.247713,56479741.990879,Mielenforster Straße / Bensberger Marktweg,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,nein
+9969,23602298.395423,56464015.55044,Heidelberger Straße / Kopernikusstraße,Stadt Köln,Mülheim,nein,---,nein,nein
+9980,23606259.130299,56489540.038972,Berliner Straße / Steinkaulerstraße / Buswendeschleife,Stadt Köln,Mülheim,ja - taktil,---,nein,nein
+5102,23557353.7,56480887.4,Kempener Str. / An der Drehscheibe,Stadt Köln,Nippes,nein,---,nein,nein
+2056,23553986.161808,56408622.354953,Höninger Weg / Höninger Platz,Stadt Köln,Rodenkirchen,nein,---,nein,nein
+0418 (119),23520559.585517,56510469.606366,Militärringstraße / Alte Escher Straße,StrNRW/Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4419,23521947.271154,56508965.147799,Alte Escher Straße / Von-Hünefeld-Straße / BAB57,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4420,23526868.310155,56504955.268672,Butzweilerstraße / Alte Escher Straße,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4421,23526639.459935,56502677.095024,Butzweilerstraße / IKEA,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4430,23517307.051629,56503210.199965,Von-Hünefeld-Straße / Butzweilerhofallee / Richard-Byrd-Straße Süd / Adolf-Grimme-Allee,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+4431,23520724.792432,56507646.032077,Von-Hünefeld-Straße / Richard-Byrd-Straße Nord / Ausfahrt Großmarkt,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+0435 (229),23483073,56500844,Venloer Straße / B59alt,StrNRW/Stadt Köln,Ehrenfeld,nein,---,nein,nein
+0712 (230),23649455.078561,56392205.153242,Frankfurter Straße / Schubertstraße,StrNRW,Porz,nein,---,nein,nein
+4422,23522607.50624,56508517.986668,Alte Escher Straße / Ausfahrt Großmarkt,Stadt Köln,Ehrenfeld,nein,---,nein,nein
+4129,23544031.078231,56457970.644105,Venloer Straße / Fuchsstraße / Moschee,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+7114,23677019.287924,56381655.877724,Flughafen / Terminal,privat,Porz,nein,---,nein,nein
+4428,23523828.808875,56494399.055012,Hugo-Eckener-Straße / Fitzmauricestraße / Köhlstraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4429,23519975.293098,56501305.374242,Butzweilerhofallee / Rudi-Conin-Straße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+5223,23576929.8,56470630.6,Riehler Straße / Zoo-Flora,Stadt Köln,Nippes,ja - akustisch+taktil,---,nein,ja
+4840,23529312.148376,56483479.844452,Rochusstraße / Margaretastraße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+0306 (206),23483034.721621,56467971.043904,Lise-Meitner-Ring / Ottostraße,StrNRW,Lindenthal,nein,---,nein,nein
+7777,23653346.048973,56388555.887762,Kennedystraße / Joseph-Broicher-Straße,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,nein
+4427,23523512.1,56496571.6,Fitzmauricestraße / Käthe-Paulus-Straße,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+3871,23521782,56436525,Dürener Straße / Prälat-van-Acken-Straße,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,ja
+9983,23600523,56485804,Clevischer Ring / Hacketäuerstraße,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,ja
+4147,23524577,56466415,Vogelsanger Straße / Zufahrt Rheinische Stiftung,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+4414,23506700,56498444,Gleisquerung Görlinger-Zentrum,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,nein
+0445,23493876,56494409,Venloer Straße / Auf dem Paulsacker / Rath-Mengenicher Weg,StrNRW,Ehrenfeld,nein,---,nein,nein
+0307 (207),23491285,56466266,Lise-Meitner-Ring / Egelspfad,StrNRW/Stadt Köln,Lindenthal,nein,---,nein,nein
+8882,23588525.1,56449502,Gummersbacher Straße / Feuerwache8,Stadt Köln,Kalk,nein,---,nein,nein
+9954,23595747.2,56461770.2,Karlsruher Straße / Lidl,Stadt Köln,Mülheim,ja - akustisch+taktil,---,nein,nein
+1257,23558841,56457563.3,Kyotostr. / FU.Bildungslandschaft,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,nein
+1105,23579093.3,56445954.5,Gotenring / Adolphstraße / Thusneldastraße,Stadt Köln,Innenstadt,ja - akustisch+taktil,---,nein,ja
+8875,23595207.5,56446853.9,Rolshover Straße / Sieversstraße,Stadt Köln,Kalk,ja - akustisch+taktil,---,nein,nein
+4030,23519179.6,56486676.8,Mathias-Brüggen-Straße / Mühlenweg,Stadt Köln,Ehrenfeld,ja - akustisch+taktil,---,nein,ja
+3338,23515821.9,56435599.8,Dürener Straße / östlicher Übergang,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+3337,23510216.9,56435853.8,Dürener Straße / westlicher Übergang,Stadt Köln,Lindenthal,ja - akustisch+taktil,---,nein,nein
+0751,23662632,56337131,Frankfurter Str. - B8 / Niederkasseler Straße,StrNRW,Porz,nein,---,nein,nein
+9979,23601470.742361,56481306.263975,Markgrafenstraße / Gleisquerung,Stadt Köln,Mülheim,nein,---,nein,nein
+1320,23563446,56438662.4,Tel-Aviv-Straße / Abfahrt Severinsbrücke,Stadt Köln,Innenstadt,nein,---,nein,ja
+7011,23640923.5,56384942.7,Kaiserstraße / KVB-Betriebshof,Stadt Köln,Porz,ja - akustisch+taktil,---,nein,ja
