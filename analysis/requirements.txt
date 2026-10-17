@@ -1,0 +1,8 @@
+# Analysis only (no SUMO or PyTorch needed). Gives identical output with Python 3.12, numpy 1.26.4,
+# scipy 1.13.1, statsmodels 0.14.2, matplotlib 3.8.4 and with Python 3.13, numpy 2.5.3, scipy 1.18.1,
+# statsmodels 0.15.0, matplotlib 3.11.2.
+numpy>=1.26
+scipy>=1.13
+statsmodels>=0.14
+matplotlib>=3.8
+openpyxl>=3.1

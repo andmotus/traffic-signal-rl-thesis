@@ -9,6 +9,7 @@ national CO₂-reduction potential for Germany from the resulting findings.
 ## Structure
 - `RESCO/` — benchmark framework (git submodule, unmodified)
 - `src/` — classification wrapper, training scripts, analysis
+- `analysis/` — scripts that regenerate every table, figure and number of the thesis from the run logs (see `analysis/README.md`)
 - `docs/` — proposal, setup notes
 
 ## Setup

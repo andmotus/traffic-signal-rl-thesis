@@ -1,0 +1,13 @@
+input,cologne_type,ingolstadt_type
+Vehicles per peak hour,"2,015","1,716"
+CO2 saving per vehicle: car / truck / motorcycle (g),8.65 / 22.75 / 4.26,19.80 / 30.13 / 21.93
+Fleet composition: car / truck / motorcycle (median of kreisfreie cities),85.78 / 7.27 / 6.95%,86.23 / 6.92 / 6.85%
+Saving per intersection and peak hour,18.9 kg,35.5 kg
+"Number of cities (Destatis, 31 Dec 2024)",14,65
+Kreisfreie cities found in KBA FZ 1 / imputed with the median population,14 / 0,52 / 13
+Population of the city type (million),14.23,12.66
+"Signalised intersections per 1,000 inhabitants",0.8893,1.0709
+Signalised intersections (estimated),"12,656","13,553"
+Fixed-time pool (low / central / high),14 / 20.5 / 27%,11 / 17.5 / 24%
+Adoption within pool,25 / 50 / 100%,25 / 50 / 100%
+Peak-hour equivalents per day,2 / 4 / 8,2 / 4 / 8

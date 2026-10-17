@@ -1,0 +1,5 @@
+network,arm,runs_with_severe,runs_with_5_consecutive,longest_streak
+cologne1,A,13,1,8
+cologne1,B,10,1,31
+ingolstadt1,A,5,0,1
+ingolstadt1,B,3,0,1
