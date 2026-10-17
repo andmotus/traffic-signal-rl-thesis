@@ -48,7 +48,7 @@ Each script can also be run on its own, for example `python analysis/h2_state_co
 Some inputs are not files in the repository. They are constants at the top of `h4_co2_national.py` and `h1_learned_vs_fixed.py`, each with its source:
 
 - the published RESCO delays (Ault & Sharon, 2021, Table 1)
-- the OpenStreetMap node counts for Cologne (3,568) and Ingolstadt (558). The Overpass query that produced them is not yet in the repository.
+- the OpenStreetMap node counts for Cologne (3,568) and Ingolstadt (558), from 30 August 2026. The Overpass queries are in `docs/osm_traffic_signals.md`.
 - the fixed-time pool, adoption and peak-hour equivalents of Table 3.4
 - German transport-sector emissions in 2025, 146.3 million t CO₂-equivalent (Umweltbundesamt, 2026)
 - the plain-SUMO Fixed-Time measurement on Cologne1 (175.7 g per vehicle), used only as a plausibility check

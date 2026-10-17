@@ -35,8 +35,8 @@ from common import (BLUE, DOCS, FIGURES, GRAY, NETWORKS, ORANGE, ROOT, converged
 CLASSES = ["car", "truck", "motorcycle"]
 
 # --- Step 3: signalised intersections -------------------------------------------------------
-# Nodes tagged highway=traffic_signals within the city boundary (OpenStreetMap contributors, 2026),
-# as reported in Section 3.7. Entered as constants: the Overpass query itself is not yet in the repository.
+# Nodes tagged highway=traffic_signals within the city boundary, counted via the Overpass API on
+# 30 August 2026 (OpenStreetMap contributors, 2026). Queries and notes: docs/osm_traffic_signals.md.
 OSM_SIGNAL_NODES = {"cologne": 3568, "ingolstadt": 558}
 
 # --- Step 4: baseline and adoption (Table 3.4) ----------------------------------------------
