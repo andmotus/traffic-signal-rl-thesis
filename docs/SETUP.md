@@ -1,55 +1,65 @@
-## Software needed on local machine
+# Setup
 
-*SUMO 1.27.1*
-"Simulation of Urban MObility" (SUMO) is an open source, highly portable, microscopic traffic simulation package designed to handle large road networks and different modes of transport. It is mainly developed by employees of the Institute of Transportation Systems at the German Aerospace Center.
-[Repository](https://github.com/eclipse-sumo/sumo)
-[Download](https://sumo.dlr.de/docs/Downloads.php)
+All experiments of the thesis ran on Windows with Python 3.12 and SUMO 1.27.1, installed as a Python package. The package versions are pinned in `requirements.txt` and need Python 3.12; numpy 1.26.4 has no package for Python 3.13.
 
+If you only want to regenerate the tables and figures from the committed run logs, you need neither SUMO nor PyTorch. See [Analysis only](#analysis-only).
 
-# Environment Setup
+## Install
 
-## Prerequisites
-- Python 3.10+
-- Git
-
-## Setup (Windows / PowerShell)
+Windows (PowerShell):
 
 ```powershell
-# Clone this repo and enter it
-git clone <your-repo-url>
-cd <your-repo-name>
-
-# Create and activate a virtual environment
+git clone https://github.com/andmotus/traffic-signal-rl-thesis.git
+cd traffic-signal-rl-thesis
 python -m venv venv
 venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+$env:SUMO_HOME = (python -c "import sumo, os; print(os.path.dirname(sumo.__file__))")
 ```
 
-> If activation fails with a "running scripts is disabled" error, run once:
-> `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`
+If activation fails with "running scripts is disabled on this system", run `Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned` once.
 
-```powershell
-# Install SUMO + Python bindings
-pip install eclipse-sumo traci sumolib libsumo
-pip freeze > requirements.txt
+Linux / macOS:
 
-# Auto-set SUMO_HOME on every future venv activation
-Add-Content -Path venv\Scripts\Activate.ps1 -Value '$env:SUMO_HOME = (python -c "import sumo, os; print(os.path.dirname(sumo.__file__))")'
-
-# Clone the RESCO benchmark (Cologne / Ingolstadt scenarios included)
-git clone https://github.com/Pi-Star-Lab/RESCO.git
+```bash
+git clone https://github.com/andmotus/traffic-signal-rl-thesis.git
+cd traffic-signal-rl-thesis
+python3.12 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+export SUMO_HOME="$(python -c 'import sumo, os; print(os.path.dirname(sumo.__file__))')"
 ```
 
-## Verify installation
+Run `pip install -r requirements.txt` from the repository root. It installs RESCO from `./RESCO` in editable mode, which makes `import resco_benchmark` work in the wrapper scripts.
 
-```powershell
+**Paths of the typed scenarios.** The two typed presets in `RESCO/resco_benchmark/config/config.yaml`, `cologne1_typed` and `ingolstadt1_typed`, contain absolute paths of the machine the experiments ran on (`C:\dev\Activation_Lab\…`). To rerun a typed experiment elsewhere, replace these four paths with the absolute paths of the same files in your clone.
+
+## Check the installation
+
+```bash
 sumo --version
-cd RESCO\resco_benchmark\environments\cologne1
-sumo -c cologne1.sumocfg --duration-log.statistics
+sumo -c RESCO/resco_benchmark/environments/cologne1/cologne1_typed.sumocfg --no-step-log true --duration-log.statistics true
 ```
 
-Expected output ends with a statistics summary (`WaitingTime: 29.94`, `Inserted: 2014`, ...) — confirms SUMO, the RESCO scenario files, and the environment are all working end-to-end.
+The second command runs one hour of the typed Cologne1 demand in plain SUMO. Its statistics summary includes `Inserted: 2013 (Loaded: 2015)`.
 
-## Notes
-- `SUMO_HOME` is set automatically whenever `venv\Scripts\Activate.ps1` runs; it is **not** cleared by `deactivate`.
-- Add `venv/` to `.gitignore`; commit `requirements.txt` instead so the environment is reproducible from a clean clone.
-- RESCO's RL dependencies (PyTorch, PFRL, gym) aren't installed yet — add those when training starts.
+## Running the experiments
+
+- Always run from `RESCO/resco_benchmark/`. RESCO's configuration changes into the parent folder if the working directory is anything else.
+- Use the wrappers instead of `main.py`:
+  - `run_typed_training.py` for standard-state IDQN and the baselines
+  - `run_classification_training.py` with `state:drq_typed` for the classification-aware state
+  - `run_emissions_tracking.py` for the CO₂ runs
+- All runs used `libsumo:False save_console_log:False gui:False`. The `.ps1` scripts contain the exact command lines of every experiment.
+- Results are written to `RESCO/results/<log_dir>/`: one JSON file per run with all per-episode metrics, and one folder per run with its `config.json`.
+- A run of 200 episodes took about 50 minutes on Cologne1 and 30 minutes on Ingolstadt1.
+- RESCO has no seed control, so a rerun is a new independent draw.
+
+## Analysis only
+
+```bash
+pip install -r analysis/requirements.txt
+python analysis/run_all.py
+```
+
+This needs only NumPy, SciPy, statsmodels, Matplotlib and openpyxl, and works with Python 3.12 or 3.13. See [analysis/README.md](../analysis/README.md).
